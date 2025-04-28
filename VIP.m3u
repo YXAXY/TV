@@ -775,6 +775,8 @@ http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94
 http://183.237.95.108:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="翡翠" tvg-id="368366" tvg-logo="https://live.fanmingming.cn/tv/翡翠台4K.png" group-title="•4K「IPV4」",🇭🇰翡翠台4K
 https://cdn.163189.xyz/live/fct4k/stream.m3u8$全网•『4K』
+#EXTINF:-1 tvg-name="8K咪咕移动频道" tvg-id="咪咕体育4K" tvg-logo="https://live.zbds.top/logo/咪咕体育4K.png" group-title="•4K「IPV4」",咪咕体育4K
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235579/index.m3u8
 #EXTINF:-1 tvg-name="8K咪咕移动频道" tvg-id="8K咪咕移动频道" tvg-logo="https://live.zbds.top/logo/8K咪咕移动频道.png" group-title="•4K「IPV4」", 8K咪咕移动频道
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236545/index.m3u8
 
@@ -3597,8 +3599,10 @@ http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8?zh
 http://tvpull.dxhmt.cn:9081/tv/10421-1.m3u8
 #EXTINF:-1 tvg-name="宜阳综合" tvg-logo="https://live.fanmingming.cn/tv/宜阳综合.png" group-title="☘️河南频道",宜阳综合
 http://tvpull.dxhmt.cn:9081/tv/10327-1.m3u8
-#EXTINF:-1  tvg-id="汤阴综合" tvg-logo="http://tv.haoqu99.com/e/data/images/notemp.gif" group-title="☘️河南频道",汤阴综合
+#EXTINF:-1  tvg-name="汤阴综合" tvg-logo="http://tv.haoqu99.com/e/data/images/notemp.gif" group-title="☘️河南频道",汤阴综合
 http://live.dxhmt.cn:9081/tv/10523-1.m3u8
+#EXTINF:-1  tvg-name="原阳综合" tvg-logo="http://tv.haoqu99.com/e/data/images/notemp.gif" group-title="☘️河南频道",原阳综合
+http://156.253.12.5:932/tslive/IPTV.php?id=%E5%8E%9F%E9%98%B3%E7%BB%BC%E5%90%88
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.cn/tv/甘肃卫视.png" group-title="☘️甘肃频道",甘肃卫视
 https://hls.gstv.com.cn/skt649/w0w7k2.m3u8
 #EXTINF:-1 tvg-name="甘肃文化影视" tvg-logo="https://live.fanmingming.cn/tv/甘肃文化影视.png" group-title="☘️甘肃频道",甘肃文化影视
