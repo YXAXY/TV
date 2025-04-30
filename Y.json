@@ -2184,7 +2184,17 @@
         }
     ],
     "lives": [
-       
+
+	     {
+             "name": "湖南IPTV",
+            "type": 0,
+            "boot": "true",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/YXAXY/TV/refs/heads/main/Hunan.m3u",
+            "ua": "okhttp/3.15",
+             "playerType": 1,
+             "timeout": 20
+           
+		},
       {
              "name": "GitHub测试",
             "type": 0,
