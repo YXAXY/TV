@@ -633,7 +633,7 @@ http://111.29.9.33:6610/000000001000/1000000004000026167/index.m3u8?channel-id=b
 #EXTINF:-1 tvg-name="热门综艺" tvg-id="热门综艺" tvg-logo="https://live.zbds.top/logo/热门综艺.png" group-title="📺数字频道", 热门综艺
 http://wouu.net:9977/udp/239.93.0.151:5140
 #EXTINF:-1 tvg-name="超级综艺" tvg-id="超级综艺" tvg-logo="https://gitee.com/SOSTV/Xu/raw/master/logo/内地/NEWTV超级综艺.png" group-title="📺数字频道", 超级综艺
-http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ejm-KqHfTZezbm9C-325YiA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNnfpAUC20DSCXUyGpDggnK%2CEND$北京移动•IPV6『1080P』
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8$北京移动•IPV6『1080P』
 http://39.134.65.164/PLTV/88888888/224/3221225642/1.m3u8
 http://111.29.9.33:6610/000000001000/1000000004000023658/index.m3u8?channel-id=bestzb&Contentid=1000000004000023658&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="求索生活" tvg-logo="https://live.fanmingming.cn/tv/求索生活.png" group-title="📺数字频道",求索生活
@@ -4272,6 +4272,138 @@ https://rmplive.hljtv.com/live/hegang.m3u8
 http://39.135.135.28:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226451/index.m3u8
 #EXTINF:-1 tvg-name="牡丹江新" tvg-logo="https://live.fanmingming.cn/tv/牡丹江新.png" group-title="☘️黑龙江频道",牡丹江新闻综合
 http://39.134.67.108/PLTV/88888888/224/3221226062/1.m3u8
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+#EXTINF:-1 tvg-name="林甸综合" tvg-logo="https://live.fanmingming.cn/tv/林甸综合.png" group-title="☘️黑龙江频道",林甸综合
+https://masterpull.hljtv.com/live/23PN6NW9.m3u8
+#EXTINF:-1 tvg-name="鸡西新闻综合" tvg-logo="https://live.fanmingming.cn/tv/鸡西新闻综合.png" group-title="☘️黑龙江频道",鸡西新闻综合
+https://masterpull.hljtv.com/live/uqFwlQDH.m3u8
+#EXTINF:-1 tvg-name="巴彦综合" tvg-logo="https://live.fanmingming.cn/tv/巴彦综合.png" group-title="☘️黑龙江频道",巴彦综合
+https://masterpull.hljtv.com/live/vAtZi96R.m3u8
+#EXTINF:-1 tvg-name="依兰综合" tvg-logo="https://live.fanmingming.cn/tv/依兰综合.png" group-title="☘️黑龙江频道",依兰综合
+https://masterpull.hljtv.com/live/4sTJDdbE.m3u8
+#EXTINF:-1 tvg-name="五常综合" tvg-logo="https://live.fanmingming.cn/tv/五常综合.png" group-title="☘️黑龙江频道",五常综合
+https://masterpull.hljtv.com/live/R9bOklLT.m3u8
+#EXTINF:-1 tvg-name="通河综合" tvg-logo="https://live.fanmingming.cn/tv/通河综合.png" group-title="☘️黑龙江频道",通河综合
+https://masterpull.hljtv.com/live/b71kCDir.m3u8
+#EXTINF:-1 tvg-name="尚志市综合" tvg-logo="https://live.fanmingming.cn/tv/尚志市综合.png" group-title="☘️黑龙江频道",尚志市综合
+https://masterpull.hljtv.com/live/EQnKvoc9.m3u8
+#EXTINF:-1 tvg-name="延寿综合" tvg-logo="https://live.fanmingming.cn/tv/延寿综合.png" group-title="☘️黑龙江频道",延寿综合
+https://masterpull.hljtv.com/live/XBqKssjB.m3u8
+#EXTINF:-1 tvg-name="方正综合" tvg-logo="https://live.fanmingming.cn/tv/方正综合.png" group-title="☘️黑龙江频道",方正综合
+https://masterpull.hljtv.com/live/sSN2Uyb2.m3u8
+#EXTINF:-1 tvg-name="龙江综合" tvg-logo="https://live.fanmingming.cn/tv/龙江综合.png" group-title="☘️黑龙江频道",龙江综合
+https://masterpull.hljtv.com/live/vRSdDMSR.m3u8
+#EXTINF:-1 tvg-name="依安综合" tvg-logo="https://live.fanmingming.cn/tv/依安综合.png" group-title="☘️黑龙江频道",依安综合
+https://masterpull.hljtv.com/live/4hhgo1mX.m3u8
+#EXTINF:-1 tvg-name="泰来综合" tvg-logo="https://live.fanmingming.cn/tv/泰来综合.png" group-title="☘️黑龙江频道",泰来综合
+https://masterpull.hljtv.com/live/cfkAgOUK.m3u8
+#EXTINF:-1 tvg-name="富裕综合" tvg-logo="https://live.fanmingming.cn/tv/富裕综合.png" group-title="☘️黑龙江频道",富裕综合
+https://masterpull.hljtv.com/live/MKFLhcpa.m3u8
+#EXTINF:-1 tvg-name="克山综合" tvg-logo="https://live.fanmingming.cn/tv/克山综合.png" group-title="☘️黑龙江频道",克山综合
+https://masterpull.hljtv.com/live/58lOw0L5.m3u8
+#EXTINF:-1 tvg-name="克东综合" tvg-logo="https://live.fanmingming.cn/tv/克东综合.png" group-title="☘️黑龙江频道",克东综合
+https://masterpull.hljtv.com/live/PO1DiGiN.m3u8
+#EXTINF:-1 tvg-name="讷河市综合" tvg-logo="https://live.fanmingming.cn/tv/讷河市综合.png" group-title="☘️黑龙江频道",讷河市综合
+https://masterpull.hljtv.com/live/PXWxDY1V.m3u8
+#EXTINF:-1 tvg-name="甘南综合" tvg-logo="https://live.fanmingming.cn/tv/甘南综合.png" group-title="☘️黑龙江频道",甘南综合
+https://masterpull.hljtv.com/live/YbFyF4Jb.m3u8
+#EXTINF:-1 tvg-name="拜泉综合" tvg-logo="https://live.fanmingming.cn/tv/拜泉综合.png" group-title="☘️黑龙江频道",拜泉综合
+https://masterpull.hljtv.com/live/zHtOXXUz.m3u8
+#EXTINF:-1 tvg-name="绥芬河综合" tvg-logo="https://live.fanmingming.cn/tv/绥芬河综合.png" group-title="☘️黑龙江频道",绥芬河综合
+https://masterpull.hljtv.com/live/pXxFNIbi.m3u8
+#EXTINF:-1 tvg-name="宁安综合" tvg-logo="https://live.fanmingming.cn/tv/宁安综合.png" group-title="☘️黑龙江频道",宁安综合
+https://masterpull.hljtv.com/live/BV2wr0vH.m3u8
+#EXTINF:-1 tvg-name="穆棱新闻综合" tvg-logo="https://live.fanmingming.cn/tv/穆棱新闻综合.png" group-title="☘️黑龙江频道",穆棱新闻综合
+https://masterpull.hljtv.com/live/5c9Mi3FV.m3u8
+#EXTINF:-1 tvg-name="林口综合" tvg-logo="https://live.fanmingming.cn/tv/林口综合.png" group-title="☘️黑龙江频道",林口综合
+https://masterpull.hljtv.com/live/pqheD07F.m3u8
+#EXTINF:-1 tvg-name="东宁综合" tvg-logo="https://live.fanmingming.cn/tv/东宁综合.png" group-title="☘️黑龙江频道",东宁综合
+https://masterpull.hljtv.com/live/UQdxnsw8.m3u8
+#EXTINF:-1 tvg-name="佳木斯新闻综合" tvg-logo="https://live.fanmingming.cn/tv/佳木斯新闻综合.png" group-title="☘️黑龙江频道",佳木斯新闻综合
+https://masterpull.hljtv.com/live/l9wQtsVs.m3u8
+#EXTINF:-1 tvg-name="同江综合" tvg-logo="https://live.fanmingming.cn/tv/同江综合.png" group-title="☘️黑龙江频道",同江综合
+https://masterpull.hljtv.com/live/oFc7fCUf.m3u8
+#EXTINF:-1 tvg-name="富锦综合" tvg-logo="https://live.fanmingming.cn/tv/富锦综合.png" group-title="☘️黑龙江频道",富锦综合
+https://masterpull.hljtv.com/live/wOBN3GqO.m3u8
+#EXTINF:-1 tvg-name="桦川综合" tvg-logo="https://live.fanmingming.cn/tv/桦川综合.png" group-title="☘️黑龙江频道",桦川综合
+https://masterpull.hljtv.com/live/NYQcW0fS.m3u8
+#EXTINF:-1 tvg-name="桦南综合" tvg-logo="https://live.fanmingming.cn/tv/桦南综合.png" group-title="☘️黑龙江频道",桦南综合
+https://masterpull.hljtv.com/live/76oCVZd3.m3u8
+#EXTINF:-1 tvg-name="汤原综合" tvg-logo="https://live.fanmingming.cn/tv/汤原综合.png" group-title="☘️黑龙江频道",汤原综合
+https://masterpull.hljtv.com/live/lt2CmppY.m3u8
+#EXTINF:-1 tvg-name="抚远综合" tvg-logo="https://live.fanmingming.cn/tv/抚远综合.png" group-title="☘️黑龙江频道",抚远综合
+https://masterpull.hljtv.com/live/tVnkOTOG.m3u8
+#EXTINF:-1 tvg-name="大庆新闻综合" tvg-logo="https://live.fanmingming.cn/tv/大庆新闻综合.png" group-title="☘️黑龙江频道",大庆新闻综合
+https://masterpull.hljtv.com/live/4WdrZLCq.m3u8
+#EXTINF:-1 tvg-name="肇州综合" tvg-logo="https://live.fanmingming.cn/tv/肇州综合.png" group-title="☘️黑龙江频道",肇州综合
+https://masterpull.hljtv.com/live/imOHYJ77.m3u8
+#EXTINF:-1 tvg-name="虎林综合" tvg-logo="https://live.fanmingming.cn/tv/虎林综合.png" group-title="☘️黑龙江频道",虎林综合
+https://masterpull.hljtv.com/live/SJJAEqBS.m3u8
+#EXTINF:-1 tvg-name="密山综合" tvg-logo="https://live.fanmingming.cn/tv/密山综合.png" group-title="☘️黑龙江频道",密山综合
+https://masterpull.hljtv.com/live/iYi97JTN.m3u8
+#EXTINF:-1 tvg-name="集贤综合" tvg-logo="https://live.fanmingming.cn/tv/集贤综合.png" group-title="☘️黑龙江频道",集贤综合
+https://masterpull.hljtv.com/live/CyJ3RKND.m3u8
+#EXTINF:-1 tvg-name="友谊综合" tvg-logo="https://live.fanmingming.cn/tv/友谊综合.png" group-title="☘️黑龙江频道",友谊综合
+https://masterpull.hljtv.com/live/LVpBWYXl.m3u8
+#EXTINF:-1 tvg-name="宝清综合" tvg-logo="https://live.fanmingming.cn/tv/宝清综合.png" group-title="☘️黑龙江频道",宝清综合
+https://masterpull.hljtv.com/live/HBp9MLoA.m3u8
+#EXTINF:-1 tvg-name="饶河综合" tvg-logo="https://live.fanmingming.cn/tv/饶河综合.png" group-title="☘️黑龙江频道",饶河综合
+https://masterpull.hljtv.com/live/DokNxER6.m3u8
+#EXTINF:-1 tvg-name="嘉荫综合" tvg-logo="https://live.fanmingming.cn/tv/嘉荫综合.png" group-title="☘️黑龙江频道",嘉荫综合
+https://masterpull.hljtv.com/live/k5IX9frJ.m3u8
+#EXTINF:-1 tvg-name="铁力市综合" tvg-logo="https://live.fanmingming.cn/tv/铁力市综合.png" group-title="☘️黑龙江频道",铁力市综合
+https://masterpull.hljtv.com/live/iUtbDFud.m3u8
+#EXTINF:-1 tvg-name="七台河新闻综合" tvg-logo="https://live.fanmingming.cn/tv/七台河新闻综合.png" group-title="☘️黑龙江频道",七台河新闻综合
+https://masterpull.hljtv.com/live/9FZ7k2XF.m3u8
+#EXTINF:-1 tvg-name="勃利综合" tvg-logo="https://live.fanmingming.cn/tv/勃利综合.png" group-title="☘️黑龙江频道",勃利综合
+https://masterpull.hljtv.com/live/6rx9bifO.m3u8
+#EXTINF:-1 tvg-name="鹤岗新闻综合" tvg-logo="https://live.fanmingming.cn/tv/鹤岗新闻综合.png" group-title="☘️黑龙江频道",鹤岗新闻综合
+https://masterpull.hljtv.com/live/rApKWXbX.m3u8
+#EXTINF:-1 tvg-name="绥滨综合" tvg-logo="https://live.fanmingming.cn/tv/绥滨综合.png" group-title="☘️黑龙江频道",绥滨综合
+https://masterpull.hljtv.com/live/DQiqZPCj.m3u8
+#EXTINF:-1 tvg-name="绥化新闻综合" tvg-logo="https://live.fanmingming.cn/tv/绥化新闻综合.png" group-title="☘️黑龙江频道",绥化新闻综合
+https://masterpull.hljtv.com/live/v4o2g1hs.m3u8
+#EXTINF:-1 tvg-name="望奎综合" tvg-logo="https://live.fanmingming.cn/tv/望奎综合.png" group-title="☘️黑龙江频道",望奎综合
+https://masterpull.hljtv.com/live/d3loVdqX.m3u8
+#EXTINF:-1 tvg-name="兰西综合" tvg-logo="https://live.fanmingming.cn/tv/兰西综合.png" group-title="☘️黑龙江频道",兰西综合
+https://masterpull.hljtv.com/live/SYG06DEw.m3u8
+#EXTINF:-1 tvg-name="绥棱综合" tvg-logo="https://live.fanmingming.cn/tv/绥棱综合.png" group-title="☘️黑龙江频道",绥棱综合
+https://masterpull.hljtv.com/live/p7WSvrJJ.m3u8
+#EXTINF:-1 tvg-name="海伦市综合" tvg-logo="https://live.fanmingming.cn/tv/海伦市综合.png" group-title="☘️黑龙江频道",海伦市综合
+https://masterpull.hljtv.com/live/VFNlgeFO.m3u8
+#EXTINF:-1 tvg-name="黑河新闻综合" tvg-logo="https://live.fanmingming.cn/tv/黑河新闻综合.png" group-title="☘️黑龙江频道",黑河新闻综合
+https://masterpull.hljtv.com/live/iyoENgSP.m3u8
+#EXTINF:-1 tvg-name="嫩江市综合" tvg-logo="https://live.fanmingming.cn/tv/嫩江市综合.png" group-title="☘️黑龙江频道",嫩江市综合
+https://masterpull.hljtv.com/live/hrSfaA6T.m3u8
+#EXTINF:-1 tvg-name="孙吴综合" tvg-logo="https://live.fanmingming.cn/tv/孙吴综合.png" group-title="☘️黑龙江频道",孙吴综合
+https://masterpull.hljtv.com/live/eXFjvNaf.m3u8
+#EXTINF:-1 tvg-name="北安市综合" tvg-logo="https://live.fanmingming.cn/tv/北安市综合.png" group-title="☘️黑龙江频道",北安市综合
+https://masterpull.hljtv.com/live/EfoBDa06.m3u8
+#EXTINF:-1 tvg-name="五大连池市综合" tvg-logo="https://live.fanmingming.cn/tv/五大连池市综合.png" group-title="☘️黑龙江频道",五大连池市综合
+https://masterpull.hljtv.com/live/6ic4FFgF.m3u8
+#EXTINF:-1 tvg-name="大兴安岭新闻综合" tvg-logo="https://live.fanmingming.cn/tv/大兴安岭新闻综合.png" group-title="☘️黑龙江频道",大兴安岭新闻综合
+https://masterpull.hljtv.com/live/H2kVyS15.m3u8
+#EXTINF:-1 tvg-name="呼玛综合" tvg-logo="https://live.fanmingming.cn/tv/呼玛综合.png" group-title="☘️黑龙江频道",呼玛综合
+https://masterpull.hljtv.com/live/yN3vDovm.m3u8
+#EXTINF:-1 tvg-name="塔河综合" tvg-logo="https://live.fanmingming.cn/tv/塔河综合.png" group-title="☘️黑龙江频道",塔河综合
+https://masterpull.hljtv.com/live/qXrATpGj.m3u8
+#EXTINF:-1 tvg-name="漠河市综合" tvg-logo="https://live.fanmingming.cn/tv/漠河市综合.png" group-title="☘️黑龙江频道",漠河市综合
+https://masterpull.hljtv.com/live/rlVvbTZN.m3u8
+#EXTINF:-1 tvg-name="齐齐哈尔新闻综合" tvg-logo="https://live.fanmingming.cn/tv/齐齐哈尔新闻综合.png" group-title="☘️黑龙江频道",齐齐哈尔新闻综合
+https://masterpull.hljtv.com/live/dUi8b96l.m3u8
+#EXTINF:-1 tvg-name="海林综合" tvg-logo="https://live.fanmingming.cn/tv/海林综合.png" group-title="☘️黑龙江频道",海林综合
+https://masterpull.hljtv.com/live/lqo9Fcdy.m3u8
+#EXTINF:-1 tvg-name="杜尔伯特综合" tvg-logo="https://live.fanmingming.cn/tv/杜尔伯特综合.png" group-title="☘️黑龙江频道",杜尔伯特综合
+https://masterpull.hljtv.com/live/eCNHwyyW.m3u8
+#EXTINF:-1 tvg-name="逊克综合" tvg-logo="https://live.fanmingming.cn/tv/逊克综合.png" group-title="☘️黑龙江频道",逊克综合
+https://masterpull.hljtv.com/live/a0CULO9O.m3u8
+
+#EXTINF:-1 tvg-name="肇源综合" tvg-logo="https://live.fanmingming.cn/tv/肇源综合.png" group-title="☘️黑龙江频道",肇源综合
+https://masterpull.hljtv.com/live/XkQg7QSI.m3u8
+#EXTINF:-1 tvg-name="伊春综合" tvg-logo="https://live.fanmingming.cn/tv/伊春综合.png" group-title="☘️黑龙江频道",伊春综合
+https://masterpull.hljtv.com/live/vQtnS3vX.m3u8
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 #EXTINF:-1 tvg-name="黔南-1" tvg-logo="https://live.fanmingming.cn/tv/黔南-1.png" group-title="☘️贵州频道",黔南-1
 rtmp://tv.qntv.net/channellive/ch1?zguizd
 #EXTINF:-1 tvg-name="黔南-2" tvg-logo="https://live.fanmingming.cn/tv/黔南-2.png" group-title="☘️贵州频道",黔南-2
