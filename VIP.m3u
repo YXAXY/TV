@@ -634,6 +634,7 @@ http://111.29.9.33:6610/000000001000/1000000004000026167/index.m3u8?channel-id=b
 http://wouu.net:9977/udp/239.93.0.151:5140
 #EXTINF:-1 tvg-name="超级综艺" tvg-id="超级综艺" tvg-logo="https://gitee.com/SOSTV/Xu/raw/master/logo/内地/NEWTV超级综艺.png" group-title="📺数字频道", 超级综艺
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8$北京移动•IPV6『1080P』
+http://39.135.133.157/PLTV/88888888/224/3221225642/1.m3u8
 http://39.134.65.164/PLTV/88888888/224/3221225642/1.m3u8
 http://111.29.9.33:6610/000000001000/1000000004000023658/index.m3u8?channel-id=bestzb&Contentid=1000000004000023658&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="求索生活" tvg-logo="https://live.fanmingming.cn/tv/求索生活.png" group-title="📺数字频道",求索生活
@@ -728,7 +729,7 @@ http://111.61.236.247:9081/hls/62/index.m3u8
 #EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://gitee.com/SOSTV/Xu/raw/master/logo/内地/CCTV女性时尚.png" group-title="📺数字频道",NEWTV女性时尚
 http://121.19.134.116:808/hls/77/index.m3u8
 #EXTINF:-1 tvg-name="时尚台FTV" tvg-logo="https://epg.v1.mk/logo/时尚台FTV.png" group-title="📺数字频道",时尚台FTV
-时尚台FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
+http://80.94.54.42/fashiontv/stream/playlist.m3u8
 #EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.v1.mk/logo/茶.png" group-title="📺数字频道",茶频道
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226548/1.m3u8?$北京IPV6【线路一】
 http://www.dlonzyz.top:12345/itv/2000000002000000070.m3u8?cdn=hnbblive
@@ -793,13 +794,13 @@ http://www.lizhinas.top:1009/rtp/239.252.220.244:5140
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230782/1/index.m3u8
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230782/4/index.m3u8
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230782/5/index.m3u8
-#EXTINF:-1, tvg-name="北京卫视4K" tvg-logo="https://epg.v1.mk/logo/北京卫视4K.png" group-title="•4K「IPV4」",北京卫视 4K
+#EXTINF:-1  tvg-name="北京卫视4K" tvg-logo="https://epg.v1.mk/logo/北京卫视4K.png" group-title="•4K「IPV4」",北京卫视 4K
 http://150.138.77.132:10037/北京卫视.php
 http://qtest-play.btime.cn/live/btv_sn_20170706_s41_20m.m3u8
 http://123.113.35.56:4022/rtp/239.3.1.22:8001
 https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s41/index.m3u8?time=1744351967&sign=1d6e0037ebeb26112fe6594f135aeaa9
 
-#EXTINF:-1,tvg-id="北京IPTV4K" tvg-name="北京IPTV4K" tvg-logo="https://epg.v1.mk/logo/北京IPTV4K.png" group-title="•4K「IPV4」",北京IPTV 4K
+#EXTINF:-1 tvg-id="北京IPTV4K" tvg-name="北京IPTV4K" tvg-logo="https://epg.v1.mk/logo/北京IPTV4K.png" group-title="•4K「IPV4」",北京IPTV 4K
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?
 http://123.113.35.56:4022/rtp/239.3.1.22:8001
 
@@ -3072,6 +3073,9 @@ https://tvshow.scgchc.com/hdlive/sctv18f9fb5888dedbe0c6a1b/1.m3u8?auth_key=17445
 https://tvshow.scgchc.com/hdlive/sctv18f9fb5888dedbe0c6a1b/1.m3u8?auth_key=1744021461-1909190501169311746-0-6177e34b248432ed1a73c2ec80dd8a85
 #EXTINF:-1, tvg-name="四川新闻" tvg-logo="https://epg.v1.mk/logo/四川新闻.png" group-title="☘️四川频道",四川新闻
 https://tvshow.scgchc.com/hdlive/sctv48f9fb5888dedbe0c6a1b/1.m3u8?auth_key=1744021706-1909190501169311746-0-46462e10d6eba5dde6fd18009c4a6cfa
+#EXTINF:-1, tvg-name="四川科教" tvg-logo="https://epg.v1.mk/logo/四川科教.png" group-title="☘️四川频道",四川科教
+http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
+
 #EXTINF:-1, tvg-name="四川经济" tvg-logo="https://epg.v1.mk/logo/四川经济.png" group-title="☘️四川频道",四川经济
 https://tvshow.scgchc.com/hdlive/sctv28f9fb5888dedbe0c6a1b/1.m3u8?auth_key=1744021793-1909190501169311746-0-5657f82baade5e77f6a8ee00a7a2f7e6
 #EXTINF:-1, tvg-name="四川文化旅游" tvg-logo="https://epg.v1.mk/logo/四川文化旅游.png" group-title="☘️四川频道",四川文化旅游
@@ -3085,32 +3089,34 @@ https://tvshow.scgchc.com/hdlive/sctv78f9fb5888dedbe0c6a1b/1.m3u8?auth_key=17440
 #EXTINF:-1, tvg-name="星空购物" tvg-logo="https://epg.v1.mk/logo/星空购物.png" group-title="☘️四川频道",星空购物
 https://tvshow.scgchc.com/hdlive/sctv98f9fb5888dedbe0c6a1b/1.m3u8?auth_key=1744022252-1909190501169311746-0-31d6ea68d0ae6ddc5a7ddbff980cd74d
 #EXTINF:-1, tvg-name="成都新闻综合" tvg-logo="https://epg.v1.mk/logo/成都新闻综合.png" group-title="☘️四川频道",成都新闻综合
+https://4graurmttgazdrctsfaaucmmdctzdnmudctwze7tqcpzy.100ycdn.com/cdn1.cditv.cn/cdtv1high/CDTV1High.flv/playlist.m3u8?wsSecret=f75cf5c92af04f7da78dfacf362f3cf9&wsTime=6821e80f&wsSession=a469dfe70c639d7b9d51f3ac-174705256080548&wsIPSercert=df9de59ed77edfb8fbb42feb4551919f&wsiphost=local&wsBindIP=1
 https://2409x8c28x6c07x11x0x0x0x13-cdn1cditvcn.wslivehls.com/cdn1.cditv.cn/cdtv1/CDTV1.flv/playlist.m3u8?wsSecret=77ae992b2a5feb95c84b93ded20baa99&wsTime=67fb86f5&wsSession=1c1cc4b2f07b1d3b15cf5632-174453733401418&wsIPSercert=dcaab393b62cde035368a4604fd15b3a&wsiphost=local&wsBindIP=1
 #EXTINF:-1, tvg-name="成都经济资讯" tvg-logo="https://epg.v1.mk/logo/成都经济资讯.png" group-title="☘️四川频道",成都经济资讯
+https://4graurmttgazdrctsfaau1mmdctzdnmudctwze7tqcpzy.100ycdn.com/cdn1.cditv.cn/cdtv2high/CDTV2High.flv/playlist.m3u8?wsSecret=fc85b837285a5e199d5afcad8f2b232d&wsTime=6821e841&wsSession=e762dd99f4b76b600e0b7655-174705260981347&wsIPSercert=9eca98cec7ab9e5f59f89e9473e2c883&wsiphost=local&wsBindIP=1
 https://2409x8c28x6c07x11x0x0x0x13-cdn1cditvcn.wslivehls.com/cdn1.cditv.cn/cdtv2/CDTV2.flv/playlist.m3u8?wsSecret=db24bb19131b3a708dee4f373de10dc1&wsTime=67fb8765&wsSession=1c1cc4b2f07b1d3b15cf5632-174453744610533&wsIPSercert=dcaab393b62cde035368a4604fd15b3a&wsiphost=local&wsBindIP=1
 #EXTINF:-1, tvg-name="成都都市生活" tvg-logo="https://epg.v1.mk/logo/成都都市生活.png" group-title="☘️四川频道",成都都市生活
+https://4graurmttgazdrctsfaauqmmdctzdnmudctwze7tqcpzy.100ycdn.com/cdn1.cditv.cn/cdtv3high/CDTV3High.flv/playlist.m3u8?wsSecret=c37eee436572754e32b9559c35945d81&wsTime=6821e871&wsSession=fc4f4cf6e4cb34c27f8c9c1a-174705265828546&wsIPSercert=70676fbf02fbf163ad12bc32f6663e77&wsiphost=local&wsBindIP=1
 https://2409x8c28x6c07x11x0x0x0x14-cdn1cditvcn.wslivehls.com/cdn1.cditv.cn/cdtv3/CDTV3.flv/playlist.m3u8?wsSecret=ba1236966de780000e1bff351e950a4f&wsTime=67fb8938&wsSession=806f386edbcbaa963d01b2b7-174453791271510&wsIPSercert=dcaab393b62cde035368a4604fd15b3a&wsiphost=local&wsBindIP=1
 #EXTINF:-1, tvg-name="成都影视文艺" tvg-logo="https://epg.v1.mk/logo/成都影视文艺.png" group-title="☘️四川频道",成都影视文艺
+https://4graurmttgazdrctsfaaugmmdctzdnmudctwze7tqcpzy.100ycdn.com/cdn1.cditv.cn/cdtv4high/CDTV4High.flv/playlist.m3u8?wsSecret=84d9f5afd1b97b798f06e64bd5fd1958&wsTime=6821e893&wsSession=3e51ee6339f0e964cfc8e442-174705269205327&wsIPSercert=13cd83eea3b83f09c077ddf659e9c5bb&wsiphost=local&wsBindIP=1
 https://2409x8c28x6c07x11x0x0x0x12-cdn1cditvcn.wslivehls.com/cdn1.cditv.cn/cdtv4/CDTV4.flv/playlist.m3u8?wsSecret=b1162ad58fba919bafd1948b0c850ff6&wsTime=67fb89a7&wsSession=503f17143bc9ba6201a63b9b-174453802367198&wsIPSercert=dcaab393b62cde035368a4604fd15b3a&wsiphost=local&wsBindIP=1
 
 #EXTINF:-1, tvg-name="成都都市生活" tvg-logo="https://epg.v1.mk/logo/成都都市生活.png" group-title="☘️四川频道",成都都市生活
 https://2409x8c28x6c07x11x0x0x0x12-cdn1cditvcn.wslivehls.com/cdn1.cditv.cn/cdtv5/CDTV5.flv/playlist.m3u8?wsSecret=20f2c90bf608fc1e2d382c2ee70cecd0&wsTime=67fb89c9&wsSession=503f17143bc9ba6201a63b9b-174453807327267&wsIPSercert=dcaab393b62cde035368a4604fd15b3a&wsiphost=local&wsBindIP=1
 
-#EXTINF:-1, tvg-name="成都公共" tvg-logo="https://epg.v1.mk/logo/成都公共.png" group-title="☘️四川频道",成都公共https://2409x8c28x6c07x11x0x0x0x12-cdn1cditvcn.wslivehls.com/cdn1.cditv.cn/cdtv5/CDTV5.flv/playlist.m3u8?wsSecret=20f2c90bf608fc1e2d382c2ee70cecd0&wsTime=67fb89c9&wsSession=503f17143bc9ba6201a63b9b-174453807327267&wsIPSercert=dcaab393b62cde035368a4604fd15b3a&wsiphost=local&wsBindIP=1
+#EXTINF:-1, tvg-name="成都公共" tvg-logo="https://epg.v1.mk/logo/成都公共.png" group-title="☘️四川频道",成都公共
+https://4graurmttgazdrctsfaaugmmdctzdnmudctwze7tqcpzy.100ycdn.com/cdn1.cditv.cn/cdtv5high/CDTV5High.flv/playlist.m3u8?wsSecret=e6ca3319cc4625b0c05658927e647f56&wsTime=6821e92f&wsSession=3e51ee6339f0e964cfc8e442-174705284782822&wsIPSercert=723f9cf7ee8d4f4024ae4742ae2cf15d&wsiphost=local&wsBindIP=1
+https://2409x8c28x6c07x11x0x0x0x12-cdn1cditvcn.wslivehls.com/cdn1.cditv.cn/cdtv5/CDTV5.flv/playlist.m3u8?wsSecret=20f2c90bf608fc1e2d382c2ee70cecd0&wsTime=67fb89c9&wsSession=503f17143bc9ba6201a63b9b-174453807327267&wsIPSercert=dcaab393b62cde035368a4604fd15b3a&wsiphost=local&wsBindIP=1
 
 
 #EXTINF:-1, tvg-name="成都少儿" tvg-logo="https://epg.v1.mk/logo/成都少儿.png" group-title="☘️四川频道",成都少儿
+https://4graurmttgazdrctsfaaukmmdctzdnmudctwze7tqcpzy.100ycdn.com/cdn1.cditv.cn/cdtv6high/CDTV6High.flv/playlist.m3u8?wsSecret=e4f1a0221f6b310d73e0d9c313e6445e&wsTime=6821e8f0&wsSession=2b8e4785b2059f22b27e79d4-174705278523486&wsIPSercert=d125634a3779caaa8c27c81dbca38a0e&wsiphost=local&wsBindIP=1
 https://2409x8c28x6c07x11x0x0x0x12-cdn1cditvcn.wslivehls.com/cdn1.cditv.cn/cdtv6/CDTV6.flv/playlist.m3u8?wsSecret=3fdc7bde027561819eb2736974183a67&wsTime=67fb8a37&wsSession=503f17143bc9ba6201a63b9b-174453816745440&wsIPSercert=dcaab393b62cde035368a4604fd15b3a&wsiphost=local&wsBindIP=1
-
-#EXTINF:-1, tvg-name="成都都市生活" tvg-logo="https://epg.v1.mk/logo/成都都市生活.png" group-title="☘️四川频道",成都都市生活
-
-#EXTINF:-1, tvg-name="成都都市生活" tvg-logo="https://epg.v1.mk/logo/成都都市生活.png" group-title="☘️四川频道",成都都市生活
 
 #EXTINF:-1, tvg-name="成都都市生活" tvg-logo="https://epg.v1.mk/logo/成都都市生活.png" group-title="☘️四川频道",成都都市生活
 https://2409x8c28x30b0x104x0x0x0x24-cdn1cditvcn.wslivehls.com/cdn1.cditv.cn/cdtv3/CDTV3.flv/playlist.m3u8?wsSecret=b8dc9043e79f07a30fd51a2470829937&wsTime=67f3dac6&wsSession=22dd7e693574ad26564b15d2-174403450272492&wsIPSercert=5a909015d57836dceaddc0aa3713038a&wsiphost=local&wsBindIP=1
 #EXTINF:-1, tvg-name="成都公共" tvg-logo="https://epg.v1.mk/logo/成都公共.png" group-title="☘️四川频道",成都公共
 https://2409x8c28x30b0x104x0x0x0x21-cdn1cditvcn.wslivehls.com/cdn1.cditv.cn/cdtv5/CDTV5.flv/playlist.m3u8?wsSecret=373e413f0a9d4e7f31d0971871ae1a43&wsTime=67f3db3a&wsSession=4af22d6b480bda325cdd5392-174403461881733&wsIPSercert=5a909015d57836dceaddc0aa3713038a&wsiphost=local&wsBindIP=1
-
 
 #EXTINF:-1,tvg-name="双流综合" tvg-logo="https://epg.v1.mk/logo/双流综合.png" group-title="☘️四川频道",双流综合
 http://171.221.250.130:18888/27e684978eb642eeb90ab815f6cc51bf/c41893de5e8645b3b43aef1640859b0d.m3u8?zsicd
@@ -3184,6 +3190,10 @@ http://qcfile.qcrmt.com/nmip-media/channellive/channel100933/playlist.m3u8
 https://play.kankanlive.com/live/1652755738635915.m3u8
 #EXTINF:-1, tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="☘️四川频道",渭源新闻
 rtmp://play.kankanlive.com/live/1701943385631927
+#EXTINF:-1, tvg-name="简阳新闻综合" tvg-logo="https://epg.v1.mk/logo/简阳新闻综合.png" group-title="☘️四川频道",简阳新闻综合
+https://3graurmttghzdkcjqgc4n4hmixbwsn5tqqb4sa5bqcp1g17dsf3tsh.100ycdn.com/quxian.pull.cditv.cn/live/jianyang.flv/playlist.m3u8?wsSecret=0fb623a72b2206a39716b394d3aaf850&wsTime=6821ea54&wsSession=5a54da3a7d2e83ddb8c8e4b2-174705314125634&wsIPSercert=0831b79639adb4d0364edfacbd682ec8&wsiphost=local&wsBindIP=1
+#EXTINF:-1, tvg-name="蓉城先锋" tvg-logo="https://epg.v1.mk/logo/蓉城先锋.png" group-title="☘️四川频道",蓉城先锋
+https://4graurmttgazdrctsfa3dymmdctzdnmudctwze7tqcpzy.100ycdn.com/cdn1.cditv.cn/dangjiaohigh/dangjiaoHigh.flv/playlist.m3u8?wsSecret=41c321ec3d334c4a2194be99b011fe94&wsTime=6821e9cc&wsSession=751de51cee9ed3c4fdd7b95d-174705300464494&wsIPSercert=f6a26eab8621d2afa285557bf6ba8b9b&wsiphost=local&wsBindIP=1
 #EXTINF:-1, tvg-name="甘南综合" tvg-logo="https://epg.v1.mk/logo/甘南综合.png" group-title="☘️四川频道",甘南综合1
 https://play.kankanlive.com/live/1711955176432990.m3u8
 
@@ -6115,18 +6125,20 @@ https://piccpndali.v.myalicdn.com/audio/cetv4_2.m3u8
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://live.fanmingming.cn/tv/香港卫视.png" group-title="🇭🇰港·澳·台",🇭🇰香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 #EXTINF:-1 tvg-name="TVB翡翠台" tvg-logo="https://live.fanmingming.cn/tv/TVB翡翠台.png" group-title="🇭🇰港·澳·台",🇭🇰TVB翡翠台
+http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
+http://php.jdshipin.com:8880/smt.php?id=jade_twn
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 http://aktv_stream.m16tv.cfd/stream/aktv/null/AKTV.m3u8$『AKTV 线路一』
 http://183.237.95.108:9901/tsfile/live/1076_1.m3u8?key=txiptv&playlive=0&authid=0$线路二 •广东IPTV『1080P』
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
-http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
-http://php.jdshipin.com:8880/smt.php?id=jade_twn
+
 http://vallest.uk/livehttpplay?channel_id=30025
 http://hkenlive.uk/livehttpplay?channel_id=13027
 http://go1.bkpcp.top/tl/null-2 
 http://222.128.55.152:9080/live/gdfc.m3u8
 http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 https://haoyunlai.serv00.net/Smartv-1.php?id=jade_twn
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 http://php.jdshipin.com/TVOD/iptv.php?id=fct3
@@ -6148,6 +6160,8 @@ http://aktv_stream.m16tv.cfd/stream/aktv/null-18/AKTV.m3u8
 #EXTINF:-1 tvg-name="翡翠综合台(北美)" tvg-logo="https://live.fanmingming.com/tv/翡翠综合台(北美).png" group-title="🇭🇰港·澳·台",翡翠综合台(北美)
 http://aktv_stream.m16tv.cfd/stream/aktv/null-17/AKTV.m3u8
 #EXTINF:-1 tvg-id="TVB功夫" tvg-name="TVB功夫" tvg-logo="https://live.fanmingming.cn/tv/TVB功夫台" group-title="🇭🇰港·澳·台",🇭🇰TVB功夫『国语』
+http://v2h.1789.dpdns.org/asia_action1/1asia_action.stream/chunklist_w101.m3u8
+http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8
 https://lb-mvtv-live.v2h-cdn.com/redirect/asia_action1/1asia_action.stream?type=m3u8
 http://110.185.171.226:96/xhgat/gat.php?type=3&id=tvb-gongfu&key=63a260f4ae674be13a68289f3b6aa68f
 #EXTINF:-1 tvg-id="TVB功夫" tvg-name="TVB功夫" tvg-logo="https://live.fanmingming.cn/tv/TVB功夫台" group-title="🇭🇰港·澳·台",🇭🇰TVB功夫『粤语』
@@ -6478,6 +6492,7 @@ http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941622&extensi
 #EXTINF:-1 tvg-name="TVBS综合" tvg-logo="https://live.fanmingming.cn/tv/TVBS综合.png" group-title="🇭🇰港·澳·台",🇭🇰TVBS综合
 http://122.117.71.103:8544/http/220.130.87.218:8081/hls/75/817/ch058.m3u8
 #EXTINF:-1,tvg-id="TVBS欢乐" tvg-name="TVBS欢乐" tvg-logo="https://epg.v1.mk/logo/TVBS欢乐.png" group-title="🇭🇰港·澳·台",tvbs欢乐
+https://ali.hlspull.yximgs.com/live/9ce99d7439ba1da616bada529e499621.flv
 http://免.l5.ca/daili/Smartv.php?id=tvbshuanle_twn
 http://37.27.111.214:8080/live/24/hls.m3u8
 http://live4play.uk/livehttpplay?channel_id=20105
