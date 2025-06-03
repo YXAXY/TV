@@ -504,7 +504,7 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236436/4/index.m3u8
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/重温经典IPV6.png" group-title="🎬电影频道",重温经典-北京
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226556/1.m3u8?
 #EXTINF:-1 tvg-name="重温经典山东" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/重温经典山东.png" group-title="🎬电影频道",重温经典-山东
-http://119.167.22.213:4022/rtp/239.253.254.81:8000
+http://119.167.16.172:4022/rtp/239.253.254.81:8000
 #EXTINF:-1 tvg-name="经典电影" tvg-logo="https://gitee.com/SOSTV/Xu/raw/master/logo/内地/重温经典IPV6.png" group-title="🎬电影频道",经典电影
 http://jf.jxx2023.work:40446/tsfile/live/1055_1.m3u8
 http://120.238.94.10:9901/tsfile/live/1040_1.m3u8
@@ -512,14 +512,14 @@ http://120.238.94.10:9901/tsfile/live/1040_1.m3u8
 http://60.172.130.146:352/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 http://114.252.238.87:8000/udp/239.3.1.93:4120
 #EXTINF:-1 tvg-name="IPTV经典电影" tvg-logo="https://live.fanmingming.cn/tv/IPTV经典电影.png" group-title="🎬电影频道",IPTV经典电影1
-http://119.167.22.213:4022/rtp/239.253.254.128:8000
+http://119.167.16.172:4022/rtp/239.253.254.128:8000
 http://183.237.95.108:9901/tsfile/live/1079_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="IPTV经典电影" tvg-logo="https://live.fanmingming.cn/tv/IPTV经典电影.png" group-title="🎬电影频道",IPTV经典电影2
-http://119.167.22.213:4022/rtp/239.253.254.130:8000
+http://119.167.16.172:4022/rtp/239.253.254.130:8000
 #EXTINF:-1 tvg-name="IPTV经典电影" tvg-logo="https://live.fanmingming.cn/tv/IPTV经典电影.png" group-title="🎬电影频道",IPTV经典电影3
-http://119.167.22.213:4022/rtp/239.253.254.209:8000
+http://119.167.16.172:4022/rtp/239.253.254.209:8000
 #EXTINF:-1 tvg-name="IPTV经典电影" tvg-logo="https://live.fanmingming.cn/tv/IPTV经典电影.png" group-title="🎬电影频道",IPTV经典电影4
-http://119.167.22.213:4022/rtp/239.253.254.223:8000
+http://119.167.16.172:4022/rtp/239.253.254.223:8000
 
 #EXTINF:-1 tvg-name="嵊泗电影台" tvg-logo="https://gitee.com/SOSTV/Xu/raw/master/logo/内地/嵊泗电影台.png" group-title="🎬电影频道",嵊泗电影台
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236580/1/index.m3u8
@@ -538,43 +538,43 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230782/1/index.m3u8
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230782/4/index.m3u8
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230782/5/index.m3u8
 #EXTINF:-1 tvg-name="华数剧场" tvg-logo="https://gitee.com/SOSTV/Xu/raw/master/logo/内地/华数.png" group-title="🎬电影频道",华数-精彩影视
-http://119.167.22.213:4022/rtp/239.253.254.142:8000
+http://119.167.16.172:4022/rtp/239.253.254.142:8000
 #EXTINF:-1 tvg-name="华数剧场" tvg-logo="https://gitee.com/SOSTV/Xu/raw/master/logo/内地/华数.png" group-title="🎬电影频道",华数剧场 4K
-http://119.167.22.213:4022/rtp/239.253.254.102:8000
+http://119.167.16.172:4022/rtp/239.253.254.102:8000
 #EXTINF:-1 tvg-name="华数剧场" tvg-logo="https://gitee.com/SOSTV/Xu/raw/master/logo/内地/华数.png" group-title="🎬电影频道",华数剧场1
-http://119.167.22.213:4022/rtp/239.253.254.125:8000
+http://119.167.16.172:4022/rtp/239.253.254.125:8000
 #EXTINF:-1 tvg-name="华数剧场" tvg-logo="https://gitee.com/SOSTV/Xu/raw/master/logo/内地/华数.png" group-title="🎬电影频道",华数剧场2
-http://119.167.22.213:4022/rtp/239.253.254.126:8000
+http://119.167.16.172:4022/rtp/239.253.254.126:8000
 http://113.128.128.56:8688/udp/239.21.1.124:5002
 http://183.237.95.108:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=0&authid=0$【线路二 3.15更新】
 #EXTINF:-1 tvg-name="华数剧场" tvg-logo="https://gitee.com/SOSTV/Xu/raw/master/logo/内地/华数.png" group-title="🎬电影频道",华数剧场3
-http://119.167.22.213:4022/rtp/239.253.254.127:8000
+http://119.167.16.172:4022/rtp/239.253.254.127:8000
 #EXTINF:-1 tvg-name="华数剧场" tvg-logo="https://gitee.com/SOSTV/Xu/raw/master/logo/内地/华数.png" group-title="🎬电影频道",华数剧场4
-http://119.167.22.213:4022/rtp/239.253.254.132:8000
+http://119.167.16.172:4022/rtp/239.253.254.132:8000
 http://183.237.95.108:9901/tsfile/live/1080_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="华数剧场" tvg-logo="https://gitee.com/SOSTV/Xu/raw/master/logo/内地/华数.png" group-title="🎬电影频道",华数剧场5
-http://119.167.22.213:4022/rtp/239.253.254.135:8000
+http://119.167.16.172:4022/rtp/239.253.254.135:8000
 http://183.237.95.108:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="华数剧场" tvg-logo="https://gitee.com/SOSTV/Xu/raw/master/logo/内地/华数.png" group-title="🎬电影频道",华数剧场6
-http://119.167.22.213:4022/rtp/239.253.254.201:8000
+http://119.167.16.172:4022/rtp/239.253.254.201:8000
 #EXTINF:-1 tvg-name="华数剧场" tvg-logo="https://gitee.com/SOSTV/Xu/raw/master/logo/内地/华数.png" group-title="🎬电影频道",华数剧场7
-http://119.167.22.213:4022/rtp/239.253.254.203:8000
+http://119.167.16.172:4022/rtp/239.253.254.203:8000
 #EXTINF:-1 tvg-name="华数剧场" tvg-logo="https://gitee.com/SOSTV/Xu/raw/master/logo/内地/华数.png" group-title="🎬电影频道",华数剧场8
-http://119.167.22.213:4022/rtp/239.253.254.205:8000
+http://119.167.16.172:4022/rtp/239.253.254.205:8000
 #EXTINF:-1 tvg-name="华数剧场" tvg-logo="https://gitee.com/SOSTV/Xu/raw/master/logo/内地/华数.png" group-title="🎬电影频道",华数剧场9
-http://119.167.22.213:4022/rtp/239.253.254.210:8000
+http://119.167.16.172:4022/rtp/239.253.254.210:8000
 #EXTINF:-1 tvg-name="华数剧场" tvg-logo="https://gitee.com/SOSTV/Xu/raw/master/logo/内地/华数.png" group-title="🎬电影频道",华数剧场10
-http://119.167.22.213:4022/rtp/239.253.254.212:8000
+http://119.167.16.172:4022/rtp/239.253.254.212:8000
 #EXTINF:-1 tvg-name="华数剧场" tvg-logo="https://gitee.com/SOSTV/Xu/raw/master/logo/内地/华数.png" group-title="🎬电影频道",华数剧场11
-http://119.167.22.213:4022/rtp/239.253.254.216:8000
+http://119.167.16.172:4022/rtp/239.253.254.216:8000
 #EXTINF:-1 tvg-name="华数剧场" tvg-logo="https://gitee.com/SOSTV/Xu/raw/master/logo/内地/华数.png" group-title="🎬电影频道",华数剧场12
-http://119.167.22.213:4022/rtp/239.253.254.218:8000
+http://119.167.16.172:4022/rtp/239.253.254.218:8000
 #EXTINF:-1 tvg-name="华数剧场" tvg-logo="https://gitee.com/SOSTV/Xu/raw/master/logo/内地/华数.png" group-title="🎬电影频道",华数剧场13
-http://119.167.22.213:4022/rtp/239.253.254.220:8000
+http://119.167.16.172:4022/rtp/239.253.254.220:8000
 #EXTINF:-1 tvg-name="华数剧场" tvg-logo="https://gitee.com/SOSTV/Xu/raw/master/logo/内地/华数.png" group-title="🎬电影频道",华数剧场14
-http://119.167.22.213:4022/rtp/239.253.254.221:8000
+http://119.167.16.172:4022/rtp/239.253.254.221:8000
 #EXTINF:-1 tvg-name="华数剧场" tvg-logo="https://gitee.com/SOSTV/Xu/raw/master/logo/内地/华数.png" group-title="🎬电影频道",华数剧场15
-http://119.167.22.213:4022/rtp/239.253.254.229:8000
+http://119.167.16.172:4022/rtp/239.253.254.229:8000
 #EXTINF:-1 tvg-name="华数剧场" tvg-logo="https://gitee.com/SOSTV/Xu/raw/master/logo/内地/华数.png" group-title="🎬电影频道",3D测试
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228578/3/index.m3u8
 #EXTINF:-1 tvg-name="未知剧场1" tvg-logo="https://gitee.com/SOSTV/Xu/raw/master/logo/内地/未知剧场1.png" group-title="🎬电影频道",未知剧场1
@@ -659,7 +659,7 @@ http://189.1.232.104:50001/6000000002000032344/wasusyt/index.m3u8$【新增线�
 http://8.209.196.123:32768/6000000002000032344/wasusyt/index.m3u8$【新增线路三 3.8】
 https://stream1.freetv.fun/2a593a648a5344ad552ec8bb7e0c80a5810e66a13ed85e38ed89ef08308e78a6.m3u8
 #EXTINF:-1 tvg-name="求索纪录" tvg-id="求索纪录" tvg-logo="https://live.fanmingming.cn/tv/求索纪录.png" group-title="📺数字频道",求索纪录
-http://119.167.22.213:4022/rtp/239.253.254.231:8000$山东IPTV【线路一 】
+http://119.167.16.172:4022/rtp/239.253.254.231:8000$山东IPTV【线路一 】
 http://183.237.95.108:9901/tsfile/live/1071_1.m3u8?key=txiptv&playlive=0&authid=0$广东IPTV【新增线路一 3.15】
 http://111.119.250.248:50001/TVOD/2000000004000000010/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="求索纪录" tvg-id="求索纪录" tvg-logo="https://live.fanmingming.cn/tv/求索纪录.png" group-title="📺数字频道",求索纪录4K
@@ -691,7 +691,7 @@ http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/2bdfdad540b342f592f
 http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/b9571df1181c4422a83901e827519fe6/4000.m3u8
 #EXTINF:-1 tvg-name="中国教育1台" tvg-logo="https://live.fanmingming.cn/tv/CETV1.png" group-title="📺数字频道",CETV-1 综合教育
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8?$【北京移动IPV6 线路一】
-http://119.167.22.213:4022/rtp/239.253.254.110:8000
+http://119.167.16.172:4022/rtp/239.253.254.110:8000
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236243/index.m3u8
 http://jf.jxx2023.work:40446/tsfile/live/1002_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="中国教育2台" tvg-logo="https://live.fanmingming.cn/tv/CETV2.png" group-title="📺数字频道",CETV-2 空中课堂
@@ -701,7 +701,7 @@ http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/322122
 #EXTINF:-1  tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://live.fanmingming.cn/tv/CETV4.png" t-time="130" v-w="0" v-h="0" group-title="📺数字频道", CETV-4 职业教育
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226557/1.m3u8?$【北京移动IPV6 线路一】
 http://39.134.65.196/PLTV/88888888/224/3221225750/1.m3u8
-http://119.167.22.213:4022/rtp/239.253.254.111:8000$【山东ITV 线路3】
+http://119.167.16.172:4022/rtp/239.253.254.111:8000$【山东ITV 线路3】
 #EXTINF:-1 tvg-name="中央新影" tvg-logo="https://live.fanmingming.cn/tv/中学生.png" group-title="🎬电影频道",中央新影
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236325/index.m3u8
 #EXTINF:-1 tvg-name="优购物" tvg-logo="https://live.fanmingming.cn/tv/优购物.png" group-title="📺数字频道",优购物
@@ -716,11 +716,11 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236398/index.m3u8
 #EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://live.fanmingming.cn/tv/兵器科技.png" group-title="📺数字频道",兵器科技
 http://120.238.94.10:9901/tsfile/live/1096_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="书法频道" tvg-logo="https://live.fanmingming.cn/tv/书法频道.png" group-title="📺数字频道",书法频道
-http://119.167.22.213:4022/rtp/239.253.254.146:8000$【山东IPTV 线路一】
+http://119.167.16.172:4022/rtp/239.253.254.146:8000$【山东IPTV 线路一】
 #EXTINF:-1 tvg-name="车迷频道" tvg-logo="https://live.fanmingming.cn/tv/车迷频道.png" group-title="📺数字频道",车迷频道
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229410/3/index.m3u8
 #EXTINF:-1 tvg-name="汽摩频道" tvg-logo="https://live.fanmingming.cn/tv/汽摩频道.png" group-title="📺数字频道",汽摩频道
-http://119.167.22.213:4022/rtp/239.253.254.161:8000$【山东IPTV 线路一】
+http://119.167.16.172:4022/rtp/239.253.254.161:8000$【山东IPTV 线路一】
 #EXTINF:-1 tvg-name="央视文化精品" tvg-logo="https://gitee.com/SOSTV/Xu/raw/master/logo/内地/CCTV央视文化精品.png" group-title="🇨🇳央视频道",央视文化精品
 http://120.238.94.10:9901/tsfile/live/1092_1.m3u8?key=txiptv
 http://115.150.63.77:85/tsfile/live/1048_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -770,7 +770,7 @@ http://111.193.169.187:4022/rtp/239.3.1.207:8001
 http://123.113.35.56:4022/rtp/239.3.1.207:8001
 #EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://live.fanmingming.cn/tv/金色学堂.png" group-title="📺数字频道",金色学堂
 http://111.193.169.187:4022/rtp/239.3.1.208:8001
-http://119.167.22.213:4022/rtp/239.253.254.100:8000
+http://119.167.16.172:4022/rtp/239.253.254.100:8000
 http://123.113.35.56:4022/rtp/239.3.1.208:8001
 http://47.97.31.29:9999/itv/2000000002000000061.m3u8?cdn=hnbblive
 #EXTINF:-1 tvg-name="未知戏剧" tvg-logo="https://live.fanmingming.cn/tv/未知戏剧.png" group-title="📺数字频道",未知戏剧
@@ -939,13 +939,13 @@ http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?zanhd
 http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829415240627.m3u8
 
 #EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://live.fanmingming.cn/tv/魅力足球.png" group-title="🏀体育频道",魅力足球
-http://119.167.22.213:4022/rtp/239.253.254.100:8000$【山东移动 线路一 】
+http://119.167.16.172:4022/rtp/239.253.254.100:8000$【山东移动 线路一 】
 http://123.113.35.56:4022/rtp/239.3.1.201:8001
 #EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://live.fanmingming.cn/tv/咪咕体育.png" group-title="🏀体育频道",咪咕体育
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236339/index.m3u8
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-id="快乐垂钓" tvg-logo="https://live.zbds.top/logo/快乐垂钓.png" group-title="🏀体育频道", 快乐垂钓
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226549/1.m3u8?$北京移动•IPV6『1080P』
-http://119.167.22.213:4022/rtp/239.253.254.144:8000$山东移动•『1080P』
+http://119.167.16.172:4022/rtp/239.253.254.144:8000$山东移动•『1080P』
 http://nas.hssvm.com:8888/udp/225.1.2.18:5002
 http://183.237.95.108:9901/tsfile/live/1094_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="四海钓鱼" tvg-id="四海钓鱼" tvg-logo="https://live.zbds.top/logo/四海钓鱼.png" group-title="🏀体育频道", 四海钓鱼
@@ -1030,7 +1030,7 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228384/5/index.m3u8
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.cn/tv/卡酷少儿.png" group-title="🐝动画频道",卡酷少儿
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226558/1.m3u8?
 http://39.134.65.194/PLTV/88888888/224/3221225562/1.m3u8
-http://119.167.22.213:4022/rtp/239.253.254.66:8000$山东移动【线路2】
+http://119.167.16.172:4022/rtp/239.253.254.66:8000$山东移动【线路2】
 http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.cn/tv/哈哈炫动.png" group-title="🐝动画频道",哈哈炫动
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236296/index.m3u8
@@ -1039,7 +1039,7 @@ http://jf.jxx2023.work:40446/tsfile/live/1069_1.m3u8?key=txiptv
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236295/index.m3u8
 
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.cn/tv/动漫秀场.png" group-title="🐝动画频道",动漫秀场
-http://119.167.22.213:4022/rtp/239.253.254.115:8000$山东移动【线路1】
+http://119.167.16.172:4022/rtp/239.253.254.115:8000$山东移动【线路1】
 http://180.158.201.25:1024/udp/239.45.3.134:5140$3.23更新【线路2】
 http://175.0.93.59:8090/itv/2000000002000000009.m3u8?cdn=hnbblive$3.13更新【线路3】
 http://183.237.95.108:9901/tsfile/live/1104_1.m3u8?key=txiptv&playlive=0&authid=0$3.13更新【线路4】
@@ -1052,7 +1052,7 @@ http://3501776.xyz:35455/itv/1000000002000010063.m3u8?cdn=ystenlive$【720P】
 http://39.134.65.194/PLTV/88888888/224/3221225556/1.m3u8
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.cn/tv/金鹰卡通.png" group-title="🐝动画频道",金鹰卡通
 http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
-http://119.167.22.213:4022/rtp/239.253.254.117:8000$山东移动【线路1】
+http://119.167.16.172:4022/rtp/239.253.254.117:8000$山东移动【线路1】
 http://119.32.12.32:2901/udp/224.1.100.113:11111
 https://stream1.freetv.fun/10c162a19187277452e11fbe6cc81e691467a45e9aaa62427d2ba9ed3d5254b9.m3u8
 http://220.170.241.204:9901/tsfile/live/1005_1.m3u8
@@ -3036,7 +3036,7 @@ http://139.196.151.191:2051/rtp/239.45.3.237:5140
 #EXTINF:-1 tvg-name="东方都市" tvg-logo="https://live.fanmingming.cn/tv/东方都市.png" group-title="☘️上海频道",东方都市
 http://www.dlonzyz.top:12345/itv/2000000002000000012.m3u8?cdn=hnbblive
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://live.fanmingming.cn/tv/东方财经.png" group-title="☘️上海频道",东方财经
-http://119.167.22.213:4022/rtp/239.253.254.94:8000$山东•ITV『线路1』
+http://119.167.16.172:4022/rtp/239.253.254.94:8000$山东•ITV『线路1』
 http://139.196.151.191:2051/rtp/239.45.1.119:5140
 #EXTINF:-1 tvg-name="全纪实" tvg-logo="https://live.fanmingming.cn/tv/全纪实.png" group-title="☘️上海频道",全纪实
 http://139.196.151.191:2051/rtp/239.45.3.135:5140
@@ -3063,10 +3063,10 @@ http://114.246.65.69:4022/rtp/239.3.1.204:8001
 http://123.113.35.56:4022/rtp/239.3.1.204:8001
 http://139.196.151.191:2051/rtp/239.45.1.46:5140
 http://120.55.49.231:3095/rtp/233.50.201.191:5140
-http://119.167.22.213:4022/rtp/239.253.254.96:8000
+http://119.167.16.172:4022/rtp/239.253.254.96:8000
 #EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://live.fanmingming.cn/tv/生活时尚.png" group-title="☘️上海频道",生活时尚
 http://114.246.65.69:4022/rtp/239.3.1.206:8001$北京•ITV『线路1』
-http://119.167.22.213:4022/rtp/239.253.254.99:8000
+http://119.167.16.172:4022/rtp/239.253.254.99:8000
 http://123.113.35.56:4022/rtp/239.3.1.206:8001
 http://www.dlonzyz.top:12345/itv/2000000002000000006.m3u8?cdn=hnbblive
 http://114.32.59.86:7000/itv/2000000002000000006.m3u8
@@ -3079,7 +3079,7 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229280/1/index.m3u8
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229280/3/index.m3u8$浙江移动『线路2』
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229280/4/index.m3u8$浙江移动『线路3』
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229280/5/index.m3u8$浙江移动『线路4』
-http://119.167.22.213:4022/rtp/239.253.254.98:8000$山东•ITV『线路5』
+http://119.167.16.172:4022/rtp/239.253.254.98:8000$山东•ITV『线路5』
 http://123.113.35.56:4022/rtp/239.3.1.203:8001
 http://103.60.111.215:50100/TVOD/2000000002000000015/hnbblive/index.m3u8
 http://183.237.95.108:9901/tsfile/live/1069_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -3089,7 +3089,7 @@ http://47.97.31.29:9999/itv/2000000002000000015.m3u8?cdn=hnbblive
 http://114.246.65.69:4022/rtp/239.3.1.207:8001
 #EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://live.fanmingming.cn/tv/金色学堂.png" group-title="☘️上海频道",金色学堂
 http://114.246.65.69:4022/rtp/239.3.1.208:8001
-http://119.167.22.213:4022/rtp/239.253.254.101:8000
+http://119.167.16.172:4022/rtp/239.253.254.101:8000
 http://139.196.151.191:2051/rtp/239.45.1.118:5140
 #EXTINF:-1, tvg-name="康巴卫视" tvg-logo="https://epg.v1.mk/logo/康巴卫视.png" group-title="☘️四川频道",康巴卫视
 https://tvshow.scgchc.com/hdlive/kangba8f9fb5888dedbe0c6a1b/1.m3u8?auth_key=1744022314-1909190501169311746-0-2a326b59ad1b33e3d6d1400f1fa06ffa
@@ -3515,7 +3515,7 @@ http://116.128.242.83:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=
 #EXTINF:-1 tvg-name="湖南公共" tvg-logo="https://live.fanmingming.cn/tv/湖南公共.png" group-title="☘️湖南频道",湖南公共
 http://116.128.242.83:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.cn/tv/金鹰纪实.png" group-title="☘️湖南频道",金鹰纪实
-http://119.167.22.213:4022/rtp/239.253.254.103:8000$山东移动【线路一】
+http://119.167.16.172:4022/rtp/239.253.254.103:8000$山东移动【线路一】
 http://183.237.95.108:9901/tsfile/live/1058_1.m3u8?key=txiptv&playlive=0&authid=0
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236333/index.m3u8
 http://121.19.134.222:808/tsfile/live/1037_1.m3u8
@@ -3693,14 +3693,14 @@ http://39.164.160.249:9901/tsfile/live/1000_1.m3u8
 #EXTINF:-1 tvg-name="河南戏曲" tvg-logo="https://live.fanmingming.cn/tv/河南戏曲.png" group-title="☘️河南频道",河南戏曲
 http://live.dxhmt.cn:9080/19903718786/3159ec673c114135816d45dd52ad7396.m3u8
 #EXTINF:-1  tvg-name="梨园频道" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/梨园.png" group-title="☘️河南频道",梨园频道
-http://119.167.22.213:4022/rtp/239.253.254.139:8000$【山东IPTV】
+http://119.167.16.172:4022/rtp/239.253.254.139:8000$【山东IPTV】
 http://42.225.117.174:11199/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="收藏天下" tvg-id="收藏天下" tvg-logo="https://livecdn.zbds.top/logo/收藏天下.png" group-title="☘️河南频道", 收藏天下
 http://www.cdnstv.com:6398/hls/1118/index.m3u8$【山东IPTV】
 #EXTINF:-1 tvg-name="武术世界" tvg-id="武术世界" tvg-logo="https://livecdn.zbds.top/logo/武术世界.png" group-title="☘️河南频道", 武术世界
-http://119.167.22.213:4022/rtp/239.253.254.140:8000$【山东IPTV】
+http://119.167.16.172:4022/rtp/239.253.254.140:8000$【山东IPTV】
 #EXTINF:-1 tvg-name="文物宝库" tvg-id="文物宝库" tvg-logo="https://livecdn.zbds.top/logo/文物宝库.png" group-title="☘️河南频道", 文物宝库
-http://119.167.22.213:4022/rtp/239.253.254.141:8000$【山东IPTV】
+http://119.167.16.172:4022/rtp/239.253.254.141:8000$【山东IPTV】
 #EXTINF:-1 tvg-name="内黄综合" tvg-logo="https://live.fanmingming.cn/tv/内黄综合.png" group-title="☘️河南频道",内黄综合
 http://tvpull.dxhmt.cn:9081/tv/10527-1.m3u8?wsSecret=df15530a0abec41b14bca00fc96270d1&wsTime=1654956569
 #EXTINF:-1 tvg-name="义马新闻综合" tvg-logo="https://live.fanmingming.cn/tv/义马新闻综合.png" group-title="☘️河南频道",义马新闻综合
@@ -3900,38 +3900,38 @@ http://124.88.144.73:1935/live/xwzh/playlist.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4
 #EXTINF:-1,tvg-id="灵石电视台" tvg-name="灵石电视台" tvg-logo="https://epg.v1.mk/logo/灵石电视台.png" group-title="☘️新疆频道",石河子经济生活
 http://124.88.144.73:1935/live/dywt/playlist.m3u8
 #EXTINF:-1 tvg-name="九屏导视" tvg-logo="https://live.fanmingming.cn/tv/九屏导视.png" group-title="☘️山东频道",九屏导视
-http://119.167.22.213:4022/rtp/239.253.254.167:8000
+http://119.167.16.172:4022/rtp/239.253.254.167:8000
 #EXTINF:-1 tvg-name="山东国际" tvg-logo="https://live.fanmingming.cn/tv/山东国际.png" group-title="☘️山东频道",山东国际
 http://221.0.78.198:1681/hls/10228/index.m3u8
 #EXTINF:-1 tvg-name="山东新闻" tvg-logo="https://live.fanmingming.cn/tv/山东新闻.png" group-title="☘️山东频道",山东新闻
-http://119.167.22.213:4022/rtp/239.253.254.23:8000
+http://119.167.16.172:4022/rtp/239.253.254.23:8000
 #EXTINF:-1 tvg-name="齐鲁频道" tvg-logo="https://live.fanmingming.cn/tv/齐鲁频道.png" group-title="☘️山东频道",齐鲁频道
-http://119.167.22.213:4022/rtp/239.253.254.114:8000
+http://119.167.16.172:4022/rtp/239.253.254.114:8000
 #EXTINF:-1 tvg-name="山东生活" tvg-logo="https://live.fanmingming.cn/tv/山东生活.png" group-title="☘️山东频道",山东生活
-http://119.167.22.213:4022/rtp/239.253.254.151:8000
+http://119.167.16.172:4022/rtp/239.253.254.151:8000
 #EXTINF:-1 tvg-name="山东农科" tvg-logo="https://live.fanmingming.cn/tv/山东农科.png" group-title="☘️山东频道",山东农科
-http://119.167.22.213:4022/rtp/239.253.254.24:8000
+http://119.167.16.172:4022/rtp/239.253.254.24:8000
 #EXTINF:-1 tvg-name="山东教育" tvg-logo="https://live.fanmingming.cn/tv/山东教育.png" group-title="☘️山东频道",山东教育
-http://119.167.22.213:4022/rtp/239.253.254.59:8000
+http://119.167.16.172:4022/rtp/239.253.254.59:8000
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236210/index.m3u8
 http://livewai.sdetv.com.cn/live/da4ebbb91ee8468db5a9d230a535391f_transios/playlist.m3u8
 http://121.19.134.222:808/tsfile/live/1033_1.m3u8
 #EXTINF:-1 tvg-name="山东文旅" tvg-logo="https://live.fanmingming.cn/tv/山东文旅.png" group-title="☘️山东频道",山东文旅
-http://119.167.22.213:4022/rtp/239.253.254.160:8000
+http://119.167.16.172:4022/rtp/239.253.254.160:8000
 #EXTINF:-1 tvg-name="EETV生态环境" tvg-logo="https://live.fanmingming.cn/tv/EETV生态环境.png" group-title="☘️山东频道",EETV生态环境
-http://119.167.22.213:4022/rtp/239.253.254.119:8000
+http://119.167.16.172:4022/rtp/239.253.254.119:8000
 #EXTINF:-1 tvg-name="汽摩频道" tvg-logo="https://live.fanmingming.cn/tv/汽摩频道.png" group-title="☘️山东频道",汽摩频道
-http://119.167.22.213:4022/rtp/239.253.254.161:8000
+http://119.167.16.172:4022/rtp/239.253.254.161:8000
 #EXTINF:-1 tvg-name="山东体育休闲" tvg-logo="https://live.fanmingming.cn/tv/山东体育休闲.png" group-title="☘️山东频道",山东体育休闲
-http://119.167.22.213:4022/rtp/239.253.254.158:8000
+http://119.167.16.172:4022/rtp/239.253.254.158:8000
 #EXTINF:-1 tvg-name="山东综艺" tvg-logo="https://live.fanmingming.cn/tv/山东综艺.png" group-title="☘️山东频道",山东综艺
-http://119.167.22.213:4022/rtp/239.253.254.159:8000
+http://119.167.16.172:4022/rtp/239.253.254.159:8000
 #EXTINF:-1 tvg-name="重温经典-山东" tvg-logo="https://live.fanmingming.cn/tv/重温经典-山东.png" group-title="☘️山东频道",重温经典-山东
-http://119.167.22.213:4022/rtp/239.253.254.81:8000
+http://119.167.16.172:4022/rtp/239.253.254.81:8000
 #EXTINF:-1 tvg-name="山东居家购物" tvg-logo="https://live.fanmingming.cn/tv/山东居家购物.png" group-title="☘️山东频道",山东居家购物
-http://119.167.22.213:4022/rtp/239.253.254.104:8000
+http://119.167.16.172:4022/rtp/239.253.254.104:8000
 #EXTINF:-1 tvg-name="山东少儿" tvg-logo="https://live.fanmingming.cn/tv/山东少儿.png" group-title="☘️山东频道",山东少儿
-http://119.167.22.213:4022/rtp/239.253.254.25:8000
+http://119.167.16.172:4022/rtp/239.253.254.25:8000
 #EXTINF:-1 tvg-name="济南新闻综合" tvg-logo="https://live.fanmingming.cn/tv/济南新闻综合.png" group-title="☘️山东频道",济南新闻综合
 http://221.0.78.198:1681/hls/10279/index.m3u8
 #EXTINF:-1 tvg-name="济南都市" tvg-logo="https://live.fanmingming.cn/tv/济南都市.png" group-title="☘️山东频道",济南都市
@@ -3978,7 +3978,7 @@ http://sdqz.chinashadt.com:2036/live/stream:2.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="青州综合" tvg-logo="https://live.fanmingming.cn/tv/青州综合.png" group-title="☘️山东频道",青州综合
 http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8?shandd
 #EXTINF:-1 tvg-name="齐鲁" tvg-id="齐鲁" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/齐鲁.png" group-title="☘️山东频道", 齐鲁
-http://119.167.22.213:4022/rtp/239.253.254.114:8000
+http://119.167.16.172:4022/rtp/239.253.254.114:8000
 http://124.128.73.58:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="威海一套新闻综合" tvg-logo="https://live.fanmingming.cn/tv/威海一套新闻综合.png" group-title="☘️山东频道",威海一套新闻综合
 http://l1.weihai.tv:8081/hls/969O76hb22.m3u8
@@ -4017,33 +4017,33 @@ http://live.yantaitv.cn/live/3e81a8879da44c5dadf3bd9c10468e1c/9b776d420ee4438199
 #EXTINF:-1 tvg-name="烟台经济科技" tvg-logo="https://live.fanmingming.cn/tv/烟台经济科技.png" group-title="☘️山东频道",烟台经济科技
 http://live.yantaitv.cn/live/27f84144e95a4652ae9e5c211b2a6b55/405f3e33ba384aa0a16014d0becd1261-1.m3u8?shandd
 #EXTINF:-1 tvg-name="胶州综合" tvg-logo="https://live.fanmingming.cn/tv/胶州综合.png" group-title="☘️山东频道",胶州综合
-http://119.167.22.213:4022/rtp/239.253.254.243:8000
+http://119.167.16.172:4022/rtp/239.253.254.243:8000
 #EXTINF:-1 tvg-name="莱西综合" tvg-logo="https://live.fanmingming.cn/tv/莱西综合.png" group-title="☘️山东频道",莱西综合
-http://119.167.22.213:4022/rtp/239.253.254.247:8000
+http://119.167.16.172:4022/rtp/239.253.254.247:8000
 #EXTINF:-1 tvg-name="黄岛综合" tvg-logo="https://live.fanmingming.cn/tv/黄岛综合.png" group-title="☘️山东频道",黄岛综合
-http://119.167.22.213:4022/rtp/239.253.254.243:8000
+http://119.167.16.172:4022/rtp/239.253.254.243:8000
 #EXTINF:-1 tvg-name="黄岛生活" tvg-logo="https://live.fanmingming.cn/tv/黄岛生活.png" group-title="☘️山东频道",黄岛生活
-http://119.167.22.213:4022/rtp/239.253.254.244:8000
+http://119.167.16.172:4022/rtp/239.253.254.244:8000
 #EXTINF:-1 tvg-name="QTV-1" tvg-logo="https://live.fanmingming.cn/tv/QTV-1.png" group-title="☘️山东频道",QTV-1
-http://119.167.22.213:4022/rtp/239.253.254.244:8000
+http://119.167.16.172:4022/rtp/239.253.254.244:8000
 #EXTINF:-1 tvg-name="QTV-2" tvg-logo="https://live.fanmingming.cn/tv/QTV-2.png" group-title="☘️山东频道",QTV-2青岛都市生活
-http://119.167.22.213:4022/rtp/239.253.254.244:8000
+http://119.167.16.172:4022/rtp/239.253.254.244:8000
 #EXTINF:-1 tvg-name="QTV-3" tvg-logo="https://live.fanmingming.cn/tv/QTV-3.png" group-title="☘️山东频道",QTV-3
-http://119.167.22.213:4022/rtp/239.253.254.244:8000
+http://119.167.16.172:4022/rtp/239.253.254.244:8000
 #EXTINF:-1 tvg-name="QTV-4" tvg-logo="https://live.fanmingming.cn/tv/QTV-4.png" group-title="☘️山东频道",QTV-4
-http://119.167.22.213:4022/rtp/239.253.254.244:8000
+http://119.167.16.172:4022/rtp/239.253.254.244:8000
 #EXTINF:-1 tvg-name="QTV-5" tvg-logo="https://live.fanmingming.cn/tv/QTV-5.png" group-title="☘️山东频道",QTV-5
-http://119.167.22.213:4022/rtp/239.253.254.244:8000
+http://119.167.16.172:4022/rtp/239.253.254.244:8000
 #EXTINF:-1 tvg-name="QTV-6" tvg-logo="https://live.fanmingming.cn/tv/QTV-6.png" group-title="☘️山东频道",QTV-6青岛教育
-http://119.167.22.213:4022/rtp/239.253.254.244:8000
+http://119.167.16.172:4022/rtp/239.253.254.244:8000
 #EXTINF:-1 tvg-name="青岛崂山" tvg-logo="https://live.fanmingming.cn/tv/青岛崂山.png" group-title="☘️山东频道",青岛崂山
 http://221.0.78.198:1681/hls/10279/index.m3u8
 #EXTINF:-1 tvg-name="海洋频道" tvg-logo="https://live.fanmingming.cn/tv/海洋频道.png" group-title="☘️山东频道",海洋频道
-http://119.167.22.213:4022/rtp/239.253.254.67:8000
+http://119.167.16.172:4022/rtp/239.253.254.67:8000
 #EXTINF:-1 tvg-name="即墨综合" tvg-logo="https://live.fanmingming.cn/tv/即墨综合.png" group-title="☘️山东频道",即墨综合
-http://119.167.22.213:4022/rtp/239.253.254.245:8000
+http://119.167.16.172:4022/rtp/239.253.254.245:8000
 #EXTINF:-1 tvg-name="平度新闻综合" tvg-logo="https://live.fanmingming.cn/tv/平度新闻综合.png" group-title="☘️山东频道",平度新闻综合
-http://119.167.22.213:4022/rtp/239.253.254.248:8000
+http://119.167.16.172:4022/rtp/239.253.254.248:8000
 
 #EXTINF:-1,tvg-id="山西影视" tvg-name="山西影视" tvg-logo="https://epg.v1.mk/logo/山西影视.png" group-title="☘️山西频道",山西影视
 http://60.223.224.176:8888/newlive/live/hls/54/live.m3u8
