@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml","http://cdn.1678520.xyz/epg"
 #EXTM3U x-tvg-url="https://epg.iill.top/epg"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/CCTV1.png" group-title="🇨🇳央视频道",CCTV1
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/CCTV/CCTV1.png" group-title="🇨🇳央视频道",CCTV1
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229840/index.m3u8?
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229858/index.m3u8?
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236222/index.m3u8?
@@ -10,70 +10,70 @@ http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLT
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229863/index.m3u8?$720
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236254/index.m3u8?$720
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236266/index.m3u8?$720
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/CCTV2.png" group-title="🇨🇳央视频道",CCTV2
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/CCTV/CCTV2.png" group-title="🇨🇳央视频道",CCTV2
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236163/index.m3u8?
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236363/index.m3u8?
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236393/index.m3u8?
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236443/index.m3u8?$咪咕
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/CCTV3.png" group-title="🇨🇳央视频道",CCTV3
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/CCTV/CCTV3.png" group-title="🇨🇳央视频道",CCTV3
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230740/index.m3u8?
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236244/index.m3u8?
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236410/index.m3u8?$咪咕
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/CCTV1.png" group-title="🇨🇳央视频道",CCTV3
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/CCTV/CCTV3.png" group-title="🇨🇳央视频道",CCTV3
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236284/index.m3u8?
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236445/index.m3u8?$咪咕
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236302/index.m3u8?$720P
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/CCTV4.png" group-title="🇨🇳央视频道",CCTV4
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/CCTV/CCTV4.png" group-title="🇨🇳央视频道",CCTV4
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236258/index.m3u8?
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236335/index.m3u8?
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236442/index.m3u8?
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236408/index.m3u8?$咪咕
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236471/index.m3u8?$咪咕
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236345/index.m3u8?$720P
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/CCTV5.png" group-title="🇨🇳央视频道",CCTV5
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/CCTV/CCTV5.png" group-title="🇨🇳央视频道",CCTV5
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232669/index.m3u8?
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236175/index.m3u8?
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236379/index.m3u8?$咪咕
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236444/index.m3u8?
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236510/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/CCTV5+.png" group-title="🇨🇳央视频道",CCTV5+
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/CCTV/CCTV5+.png" group-title="🇨🇳央视频道",CCTV5+
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236306/index.m3u8?
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236465/index.m3u8?
 
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/CCTV6.png" group-title="🇨🇳央视频道",CCTV6
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/CCTV/CCTV6.png" group-title="🇨🇳央视频道",CCTV6
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230685/index.m3u8?
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236256/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/CCTV6.png" group-title="🇨🇳央视频道",CCTV6
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/CCTV/CCTV6.png" group-title="🇨🇳央视频道",CCTV6
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236286/index.m3u8?
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236294/index.m3u8?
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236448/index.m3u8?
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236469/index.m3u8?$咪咕
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/CCTV7.png" group-title="🇨🇳央视频道",CCTV7
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/CCTV/CCTV7.png" group-title="🇨🇳央视频道",CCTV7
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236219/index.m3u8?
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236446/index.m3u8?
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236321/index.m3u8?$咪咕
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/CCTV8.png" group-title="🇨🇳央视频道",CCTV8
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/CCTV/CCTV8.png" group-title="🇨🇳央视频道",CCTV8
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232635/index.m3u8?
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236211/index.m3u8?
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236440/index.m3u8?
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236360/index.m3u8?$咪咕
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236512/index.m3u8?$咪咕
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/CCTV9.png" group-title="🇨🇳央视频道",CCTV9
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/CCTV/CCTV9.png" group-title="🇨🇳央视频道",CCTV9
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236246/index.m3u8?
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236347/index.m3u8?$咪咕
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236518/index.m3u8?$咪咕
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/CCTV10.png" group-title="🇨🇳央视频道",CCTV10
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/CCTV/CCTV10.png" group-title="🇨🇳央视频道",CCTV10
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236238/index.m3u8?
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236315/index.m3u8?
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236399/index.m3u8?
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236520/index.m3u8?$咪咕
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/CCTV11.png" group-title="🇨🇳央视频道",CCTV11 
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/CCTV/CCTV11.png" group-title="🇨🇳央视频道",CCTV11 
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236216/index.m3u8?
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236355/index.m3u8?$咪咕
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/CCTV12.png" group-title="🇨🇳央视频道",CCTV12
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/CCTV/CCTV12.png" group-title="🇨🇳央视频道",CCTV12
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236203/index.m3u8?
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236350/index.m3u8?$咪咕
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/CCTV13.png" group-title="🇨🇳央视频道",CCTV13
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/CCTV/CCTV13.png" group-title="🇨🇳央视频道",CCTV13
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236169/index.m3u8?
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236249/index.m3u8?
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236397/index.m3u8?
@@ -81,20 +81,20 @@ http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLT
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236381/index.m3u8?
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236352/index.m3u8?$咪咕
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236516/index.m3u8?$咪咕
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/CCTV14.png" group-title="🇨🇳央视频道",CCTV14
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/CCTV/CCTV14.png" group-title="🇨🇳央视频道",CCTV14
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236257/index.m3u8?
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236378/index.m3u8?$咪咕
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/CCTV15.png" group-title="🇨🇳央视频道",CCTV15
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/CCTV/CCTV15.png" group-title="🇨🇳央视频道",CCTV15
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236165/index.m3u8?
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236380/index.m3u8?$咪咕
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236406/index.m3u8?$咪咕
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/CCTV16.png" group-title="🇨🇳央视频道",CCTV16
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/CCTV/CCTV16.png" group-title="🇨🇳央视频道",CCTV16
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236181/index.m3u8?
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236388/index.m3u8?$咪咕
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/CCTV17.png" group-title="🇨🇳央视频道",CCTV17 
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/CCTV/CCTV17.png" group-title="🇨🇳央视频道",CCTV17 
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236200/index.m3u8?
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236373/index.m3u8?$咪咕
-#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/CCTV1.png" group-title="🇨🇳央视频道",CGTN纪录
+#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/CCTV/CGTN纪录.png" group-title="🇨🇳央视频道",CGTN纪录
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236245/index.m3u8?
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236205/index.m3u8?
 #EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/CGTN俄语.png" group-title="🇨🇳央视频道",CGTN俄语 576
@@ -103,200 +103,199 @@ http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLT
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236235/index.m3u8?
 #EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/CGTN法语.png" group-title="🇨🇳央视频道",CGTN法语
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236288/index.m3u8?
-#EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/CCTV1.png" group-title="🇨🇳央视频道",CGTN阿语
+#EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/CCTV/CGTN阿语.png" group-title="🇨🇳央视频道",CGTN阿语
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236290/index.m3u8?
-#EXTINF:-1 tvg-name="中学生" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/CCTV1.png" group-title="🇨🇳央视频道",中学生
+#EXTINF:-1 tvg-name="中学生" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/CCTV/CCTV中学生.png" group-title="🇨🇳央视频道",中学生
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236325/index.m3u8?$576
-#EXTINF:-1 tvg-name="发现之旅" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/CCTV1.png" group-title="🇨🇳央视频道",发现之旅
+#EXTINF:-1 tvg-name="发现之旅" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/CCTV/CCTV发现之旅.png" group-title="🇨🇳央视频道",发现之旅
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236398/index.m3u8?$720
-
+#EXTINF:-1  tvg-name="CETV4" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/CCTV/"CETV4.png" group-title="🇨🇳央视频道",,"CETV4
+http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230334/index.m3u8?
 /////////////////////////////////////////////////////
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/黑龙江卫视.png" group-title="📡卫视频道",黑龙江卫视
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/黑龙江卫视.png" group-title="📡卫视频道",黑龙江卫视
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236226/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/CCTV1.png" group-title="📡卫视频道",吉林卫视
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/吉林卫视.png" group-title="📡卫视频道",吉林卫视
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236268/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/CCTV1.png" group-title="📡卫视频道",延边卫视
+#EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/延边卫视.png" group-title="📡卫视频道",延边卫视
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236229/index.m3u8?$576
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/CCTV1.png" group-title="📡卫视频道",辽宁卫视
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/辽宁卫视.png" group-title="📡卫视频道",辽宁卫视
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236161/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/CCTV1.png" group-title="📡卫视频道",辽宁卫视
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236349/index.m3u8?$咪咕
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/CCTV1.png" group-title="📡卫视频道",内蒙古卫视
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/内蒙古卫视.png" group-title="📡卫视频道",内蒙古卫视
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236270/index.m3u8?$576
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/CCTV1.png" group-title="📡卫视频道",河北卫视
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/河北卫视.png" group-title="📡卫视频道",河北卫视
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236242/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/CCTV1.png" group-title="📡卫视频道",北京卫视
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/北京卫视.png" group-title="📡卫视频道",北京卫视
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236241/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/CCTV1.png" group-title="📡卫视频道",北京卫视
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236250/index.m3u8?$720
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/CCTV1.png" group-title="📡卫视频道",天津卫视
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/天津卫视.png" group-title="📡卫视频道",天津卫视
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236217/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/CCTV1.png" group-title="📡卫视频道",山东卫视
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/山东卫视.png" group-title="📡卫视频道",山东卫视
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236159/index.m3u8?
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236404/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/CCTV1.png" group-title="📡卫视频道",河南卫视
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/河南卫视.png" group-title="📡卫视频道",河南卫视
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236218/index.m3u8?$576
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/CCTV1.png" group-title="📡卫视频道",山西卫视
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/山西卫视.png" group-title="📡卫视频道",山西卫视
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236264/index.m3u8?$576
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/CCTV1.png" group-title="📡卫视频道",陕西卫视
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/陕西卫视.png" group-title="📡卫视频道",陕西卫视
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236370/index.m3u8?$咪咕
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236265/index.m3u8?$576
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236382/index.m3u8?$咪咕720
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/CCTV1.png" group-title="📡卫视频道",甘肃卫视
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/甘肃卫视.png" group-title="📡卫视频道",甘肃卫视
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236201/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/CCTV1.png" group-title="📡卫视频道",宁夏卫视
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/宁夏卫视.png" group-title="📡卫视频道",宁夏卫视
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236209/index.m3u8?$576
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/CCTV1.png" group-title="📡卫视频道",青海卫视
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/青海卫视.png" group-title="📡卫视频道",青海卫视
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236252/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/CCTV1.png" group-title="📡卫视频道",新疆卫视 576
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/新疆卫视.png" group-title="📡卫视频道",新疆卫视 576
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236215/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/CCTV1.png" group-title="📡卫视频道",西藏卫视 576
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/西藏卫视.png" group-title="📡卫视频道",西藏卫视 576
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236274/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/CCTV1.png" group-title="📡卫视频道",康巴卫视 576
+#EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/康巴卫视.png" group-title="📡卫视频道",康巴卫视 576
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236185/index.m3u8?$576
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/CCTV1.png" group-title="📡卫视频道",四川卫视
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/四川卫视.png" group-title="📡卫视频道",四川卫视
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236255/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/CCTV1.png" group-title="📡卫视频道",重庆卫视
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/重庆卫视.png" group-title="📡卫视频道",重庆卫视
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236292/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/CCTV1.png" group-title="📡卫视频道",云南卫视
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/云南卫视.png" group-title="📡卫视频道",云南卫视
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236234/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/CCTV1.png" group-title="📡卫视频道",贵州卫视
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/贵州卫视.png" group-title="📡卫视频道",贵州卫视
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236236/index.m3u8?
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236341/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/CCTV1.png" group-title="📡卫视频道",湖北卫视
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/湖北卫视.png" group-title="📡卫视频道",湖北卫视
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236271/index.m3u8?
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236394/index.m3u8?$咪咕
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/CCTV1.png" group-title="📡卫视频道",湖南卫视
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/湖南卫视.png" group-title="📡卫视频道",湖南卫视
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236225/index.m3u8?
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236377/index.m3u8?$咪咕
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236467/index.m3u8?$咪咕
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236195/index.m3u8?$720p
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/CCTV1.png" group-title="📡卫视频道",江苏卫视
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/江苏卫视.png" group-title="📡卫视频道",江苏卫视
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236221/index.m3u8?
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236331/index.m3u8?
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236463/index.m3u8?$咪咕
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/CCTV1.png" group-title="📡卫视频道",东方卫视
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/东方卫视.png" group-title="📡卫视频道",东方卫视
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236227/index.m3u8?
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236461/index.m3u8?$咪咕
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236369/index.m3u8?$咪咕
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/CCTV1.png" group-title="📡卫视频道",东方卫视
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236364/index.m3u8?$咪咕720
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/CCTV1.png" group-title="📡卫视频道",安徽卫视
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/安徽卫视.png" group-title="📡卫视频道",安徽卫视
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236177/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/CCTV1.png" group-title="📡卫视频道",浙江卫视
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/浙江卫视.png" group-title="📡卫视频道",浙江卫视
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236171/index.m3u8?
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236237/index.m3u8?
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236269/index.m3u8?
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236280/index.m3u8?$576
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/CCTV1.png" group-title="📡卫视频道",江西卫视
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/江西卫视.png" group-title="📡卫视频道",江西卫视
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236212/index.m3u8?
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236357/index.m3u8?$咪咕
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/CCTV1.png" group-title="📡卫视频道",江西卫视
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236354/index.m3u8?$720
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/CCTV1.png" group-title="📡卫视频道",东南卫视
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/东南卫视.png" group-title="📡卫视频道",东南卫视
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236151/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/CCTV1.png" group-title="📡卫视频道",东南卫视
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236356/index.m3u8?$咪咕
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/CCTV1.png" group-title="📡卫视频道",东南卫视 720
-http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236400/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/CCTV1.png" group-title="📡卫视频道",厦门卫视 576
+http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236400/index.m3u8?$720P
+#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/厦门卫视.png" group-title="📡卫视频道",厦门卫视
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236231/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/CCTV1.png" group-title="📡卫视频道",海峡卫视 咪咕
+#EXTINF:-1 tvg-name="海峡卫视" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/海峡卫视.png" group-title="📡卫视频道",海峡卫视
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236416/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/CCTV1.png" group-title="📡卫视频道",海峡卫视 720
-http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236368/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/CCTV1.png" group-title="📡卫视频道",广东卫视
+http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236368/index.m3u8?$720P
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/广东卫视.png" group-title="📡卫视频道",广东卫视
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236262/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/CCTV1.png" group-title="📡卫视频道",广西卫视
+http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236392/index.m3u8?$720P
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/广西卫视.png" group-title="📡卫视频道",广西卫视
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236263/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/CCTV1.png" group-title="📡卫视频道",广西卫视 720
-http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236367/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/CCTV1.png" group-title="📡卫视频道",广东卫视 720
-http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236372/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/CCTV1.png" group-title="📡卫视频道",广东卫视 720
-http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236392/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/CCTV1.png" group-title="📡卫视频道",深圳卫视
+http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236367/index.m3u8?$720P
+http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236372/index.m3u8?$720P
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/深圳卫视.png" group-title="📡卫视频道",深圳卫视
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236251/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/CCTV1.png" group-title="📡卫视频道",海南卫视
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/海南卫视.png" group-title="📡卫视频道",海南卫视
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236232/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/CCTV1.png" group-title="📡卫视频道",大湾区卫视
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/大湾区卫视.png" group-title="📡卫视频道",大湾区卫视
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236213/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/卫视/CCTV1.png" group-title="📡卫视频道",大湾区卫视 720
-http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236327/index.m3u8?
+http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236327/index.m3u8?$720P
 ////////////////////////////////////////////////////////////////
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iHOT/iHOT爱赛车.png" group-title="🎬电影频道",iHOT爱赛车
+#EXTINF:-1 tvg-name="爱科学" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iHOT/iHOT爱科学.png"group-title="📺数字频道",iHOT爱科学
+http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235603/1/index.m3u8?
+#EXTINF:-1 tvg-name="爱院线" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iHOT/iHOT爱院线.png"group-title="🎬电影频道",iHOT爱院线
+http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230019/1/index.m3u8?
+#EXTINF:-1 tvg-name="爱科幻" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iHOT/iHOT爱科幻.png"group-title="🎬电影频道",iHOT爱科幻
+http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230025/1/index.m3u8?
+#EXTINF:-1 tvg-name="iHOT爱奇谈" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iHOT/iHOT爱奇谈.png"group-title="🎬电影频道",iHOT爱奇谈
+http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235605/1/index.m3u8?
+#EXTINF:-1 tvg-name="iHOT爱浪漫" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iHOT/iHOT爱浪漫.png"group-title="🎬电影频道",iHOT爱浪漫
+http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230005/1/index.m3u8?
+#EXTINF:-1 tvg-name="iHOT爱喜剧" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iHOT/iHOT爱喜剧.png"group-title="🎬电影频道",iHOT爱喜剧
+http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230022/1/index.m3u8?
+#EXTINF:-1 tvg-name="爱赛车" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iHOT/iHOT爱赛车.png" group-title="🎬电影频道",iHOT爱赛车
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230032/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iHOT/iHOT爱旅行.png" group-title="🎬电影频道",iHOT爱旅行
+#EXTINF:-1 tvg-name="爱旅行" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iHOT/iHOT爱旅行.png" group-title="🎬电影频道",iHOT爱旅行
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230052/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iHOT/iHOT爱谍战.png" group-title="🎬电影频道",iHOT爱谍战
+#EXTINF:-1 tvg-name="爱谍战" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iHOT/iHOT爱谍战.png" group-title="🎬电影频道",iHOT爱谍战
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230092/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iHOT/iHOT爱悬疑.png" group-title="🎬电影频道",iHOT爱悬疑
+#EXTINF:-1 tvg-name="爱悬疑" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iHOT/iHOT爱悬疑.png" group-title="🎬电影频道",iHOT爱悬疑
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230098/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iHOT/iHOT爱历史.png" group-title="🎬电影频道",iHOT爱历史
+#EXTINF:-1 tvg-name="爱历史" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iHOT/iHOT爱历史.png" group-title="🎬电影频道",iHOT爱历史
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230100/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iHOT/iHOT爱体育.png" group-title="🎬电影频道",iHOT爱体育
+#EXTINF:-1 tvg-name="爱体育" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iHOT/iHOT爱体育.png" group-title="🎬电影频道",iHOT爱体育
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230103/index.m3u8?
 
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/NEWTV/NEWTV中国功夫.png" group-title="🎬电影频道",NewTV 中国功夫
+#EXTINF:-1 tvg-name="NEWTV中国功夫" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/NewTV/NEWTV中国功夫.png" group-title="🎬电影频道",NewTV 中国功夫
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236267/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/NEWTV/NEWTV欢乐剧场.png" group-title="🎬电影频道",NewTV 欢乐剧场
+#EXTINF:-1 tvg-name="NEWTV欢乐剧场" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/NewTV/NEWTV欢乐剧场.png" group-title="🎬电影频道",NewTV 欢乐剧场
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236173/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/NEWTV/NEWTV爱情喜剧.png" group-title="🎬电影频道",NewTV 爱情喜剧
+#EXTINF:-1 tvg-name="NEWTV爱情喜剧" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/NewTV/NEWTV爱情喜剧.png" group-title="🎬电影频道",NewTV 爱情喜剧
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236179/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/NEWTV/NEWTV动作电影.png" group-title="🎬电影频道",NewTV 动作电影
+#EXTINF:-1 tvg-name="NEWTV动作电影" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/NewTV/NEWTV动作电影.png" group-title="🎬电影频道",NewTV 动作电影
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236183/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/NEWTV/NEWTV热播精选.png" group-title="🎬电影频道",NewTV 热播精选  
+#EXTINF:-1 tvg-name="NEWTV热播精选" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/NewTV/NEWTV热播精选.png" group-title="🎬电影频道",NewTV 热播精选  
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236204/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/NEWTV/NEWTV家庭剧场.png" group-title="🎬电影频道",NewTV 家庭剧场
+#EXTINF:-1 tvg-name="NEWTV家庭剧场" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/NewTV/NEWTV家庭剧场.png" group-title="🎬电影频道",NewTV 家庭剧场
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236206/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/NEWTV/NEWTV哒啵赛事.png" group-title="🎬电影频道",NewTV 哒啵赛事
+#EXTINF:-1 tvg-name="NEWTV哒啵赛事" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/NewTV/NEWTV哒啵赛事.png" group-title="🎬电影频道",NewTV 哒啵赛事
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236207/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/NEWTV/NEWTV怡伴健康.png" group-title="🎬电影频道",NewTV 怡伴健康
+#EXTINF:-1 tvg-name="NEWTV怡伴健康" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/NewTV/NEWTV怡伴健康.png" group-title="🎬电影频道",NewTV 怡伴健康
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236220/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/NEWTV/NEWTV惊悚悬疑.png" group-title="🎬电影频道",NewTV 惊悚悬疑
+#EXTINF:-1 tvg-name="NEWTV惊悚悬疑" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/NewTV/NEWTV惊悚悬疑.png" group-title="🎬电影频道",NewTV 惊悚悬疑
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236223/index.m3u8?
-
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/NEWTV/NEWTV精品综合.png" group-title="🎬电影频道",NewTV 精品综合
+#EXTINF:-1 tvg-name="NEWTV精品综合" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/NewTV/NEWTV精品综合.png" group-title="🎬电影频道",NewTV 精品综合
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236153/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/NEWTV/NEWTV精品大剧.png" group-title="🎬电影频道",NewTV 精品大剧
+#EXTINF:-1 tvg-name="NEWTV精品大剧" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/NewTV/NEWTV精品大剧.png" group-title="🎬电影频道",NewTV 精品大剧
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236239/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/NEWTV/NEWTV古装剧场.png" group-title="🎬电影频道",NewTV 古装剧场
+#EXTINF:-1 tvg-name="NEWTV古装剧场" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/NewTV/NEWTV古装剧场.png" group-title="🎬电影频道",NewTV 古装剧场
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236240/index.m3u8?
 
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/NEWTV/NEWTV军旅剧场.png" group-title="🎬电影频道",NewTV 军旅剧场
+#EXTINF:-1 tvg-name="NEWTV军旅剧场" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/NewTV/NEWTV军旅剧场.png" group-title="🎬电影频道",NewTV 军旅剧场
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236278/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/NEWTV/NEWTV热播剧集.png" group-title="🎬电影频道",NewTV 热播剧集720P
+#EXTINF:-1 tvg-name="NEWTV热播剧集" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/NewTV/NEWTV热播剧集.png" group-title="🎬电影频道",NewTV 热播剧集720P
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236396/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/NEWTV/NEWTV潮妈辣婆.png" group-title="🎬电影频道",NewTV 潮妈辣婆
+#EXTINF:-1 tvg-name="NEWTV潮妈辣婆" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/NewTV/NEWTV潮妈辣婆.png" group-title="🎬电影频道",NewTV 潮妈辣婆
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236167/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/NEWTV/海外影院1.png" group-title="🎬电影频道",Movie 海外影院
+#EXTINF:-1 tvg-name="Movies" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/NewTV/海外影院1.png" group-title="🎬电影频道",Movie 海外影院
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236157/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/NEWTV/海外剧场1.png" group-title="🎬电影频道",Drama 海外剧场
+#EXTINF:-1 tvg-name="Drama" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/NewTV/海外剧场1.png" group-title="🎬电影频道",Drama 海外剧场
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236208/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/CHC/CHC家庭影院.png" group-title="🎬电影频道",CHC家庭影院 咪咕
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/CHC/CHC家庭影院.png" group-title="🎬电影频道",CHC家庭影院 咪咕
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236359/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/NEWTV/NEWTV黑莓动画.png" group-title="🎬电影频道",黑莓动画
+#EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/NewTV/NEWTV黑莓动画.png" group-title="🎬电影频道",黑莓动画
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236261/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/NEWTV/NEWTV黑莓电影.png" group-title="🎬电影频道",黑莓电影
+#EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/NewTV/NEWTV黑莓电影.png" group-title="🎬电影频道",黑莓电影
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236248/index.m3u8?
-
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/NEWTV/NEWTV军事评论.png" group-title="📺数字频道",NewTV 军事评论
+#EXTINF:-1 tvg-name="NEWTV军事评论" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/NewTV/NEWTV军事评论.png" group-title="📺数字频道",NewTV 军事评论
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236155/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/NEWTV/NEWTV金牌综艺.png" group-title="📺数字频道",NewTV 金牌综艺
+#EXTINF:-1 tvg-name="NEWTV金牌综艺" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/NewTV/NEWTV金牌综艺.png" group-title="📺数字频道",NewTV 金牌综艺
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236282/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/NEWTV/NEWTV精品纪录.png" group-title="📺数字频道",NewTV 精品纪录
+#EXTINF:-1 tvg-name="NEWTV精品纪录" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/NewTV/NEWTV精品纪录.png" group-title="📺数字频道",NewTV 精品纪录
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236276/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/NEWTV/NEWTV农业致富.png" group-title="📺数字频道",NewTV 农业致富
+#EXTINF:-1 tvg-name="NEWTV农业致富" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/NewTV/NEWTV农业致富.png" group-title="📺数字频道",NewTV 农业致富
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236233/index.m3u8?
-
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/NEWTV/NEWTV武博世界.png" group-title="🏀体育频道",NewTV 武博世界
+#EXTINF:-1 tvg-name="NEWTV武博世界" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/NewTV/NEWTV武博世界.png" group-title="🏀体育频道",NewTV 武博世界
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236247/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/NEWTV/NEWTV精品体育.png" group-title="🏀体育频道",NewTV 精品体育
+#EXTINF:-1 tvg-name="NEWTV精品体育" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/NewTV/NEWTV精品体育.png" group-title="🏀体育频道",NewTV 精品体育
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236300/index.m3u8?
 
-#EXTINF:-1,凤凰卫视
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/HK/凤凰中文.png" group-title="🇭🇰港·澳·台",🇭🇰凤凰中文台
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236260/index.m3u8?
-#EXTINF:-1,凤凰资讯
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/HK/凤凰资讯.png" group-title="🇭🇰港·澳·台",🇭🇰凤凰资讯台
 http://[2409:8087:2810:1020:1000::0010]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236197/index.m3u8?
 
 
