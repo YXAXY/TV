@@ -2197,7 +2197,7 @@
 		},
       {
              "name": "GitHub测试",
-            "type": 0,
+            "type": 1,
             "boot": "true",
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/YXAXY/TV/refs/heads/main/VIP.m3u",
             "ua": "okhttp/3.15",
