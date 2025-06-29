@@ -2197,7 +2197,7 @@
 		},
       {
              "name": "GitHub测试",
-            "type": 1,
+            "type": 0,
             "boot": "true",
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/YXAXY/TV/refs/heads/main/VIP.m3u",
             "ua": "okhttp/3.15",
@@ -2205,7 +2205,14 @@
              "timeout": 20
            
 		},
-            
+              {
+             "name": "黑龙江代理【全网】",
+            "type": 0,
+            "boot": "true",
+             "url": "https://ghproxy.net/https://raw.githubusercontent.com/YXAXY/TV/refs/heads/main/HLDL.m3u",
+            "playerType": 1,
+            "timeout": 20
+		 },
      {
              "name": "AKTV 港澳台",
             "type": 0,
@@ -2232,14 +2239,7 @@
              "timeout": 20
            
 		},
-           {
-             "name": "红星专用【电信】",
-            "type": 0,
-            "boot": "true",
-             "url": "http://xgdn2021.vip:8089/wordpress/wp-content/uploads/2025/03/红星专用.m3u8",
-            "playerType": 1,
-            "timeout": 20
-		 },
+           
  {
              "name": "Gather",
             "type": 0,
