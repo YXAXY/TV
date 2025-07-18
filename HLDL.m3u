@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_CN.xml"
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/CCTV/CCTV1.png" group-title="🇨🇳央视频道",CCTV1
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221226559
@@ -218,9 +218,9 @@ http://php.jdshipin.com/TVOD/hljyd.php?id=3221226368
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221226298
 #EXTINF:-1,tvg-id="黑龙江影视" tvg-name="黑龙江影视" tvg-logo="https://epg.v1.mk/logo/黑龙江影视.png" group-title="☘️黑龙江频道",黑龙江影视
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221226365
-#EXTINF:-1,tvg-id="哈尔滨新闻综合" tvg-name="哈尔滨新闻综合" tvg-logo="https://epg.v1.mk/logo/哈尔滨新闻综合.png" group-title="其他",哈尔滨新闻综合
+#EXTINF:-1,tvg-id="哈尔滨新闻综合" tvg-name="哈尔滨新闻综合" tvg-logo="https://epg.v1.mk/logo/哈尔滨新闻综合.png" group-title="☘️黑龙江频道",哈尔滨新闻综合
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221226434
-#EXTINF:-1,tvg-id="哈尔滨新闻综合" tvg-name="哈尔滨新闻综合" tvg-logo="https://epg.v1.mk/logo/哈尔滨新闻综合.png" group-title="其他",哈尔滨新闻综合
+#EXTINF:-1,tvg-id="哈尔滨新闻综合" tvg-name="哈尔滨新闻综合" tvg-logo="https://epg.v1.mk/logo/哈尔滨新闻综合.png" group-title="☘️黑龙江频道",哈尔滨新闻综合
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221226558
 #EXTINF:-1,tvg-id="哈尔滨影视" tvg-name="哈尔滨影视" tvg-logo="https://epg.v1.mk/logo/哈尔滨影视.png" group-title="☘️黑龙江频道",哈尔滨影视
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221226552
