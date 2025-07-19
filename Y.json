@@ -7,11 +7,17 @@
 "warningText": "欢迎回来",
    
 	 "sites": [
-     {"key":"厂长弹幕版","name":"🌸厂长┃弹幕","type": 3,"api":"csp_CzzyGuard","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true}, "timeout": 10},
-    {"key":"韩圈","name":"🦄韩圈┃弹幕","type": 3,"api":"csp_HanXiaoQuanGuard","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true}, "timeout": 10},
- {"key":"瓜子看球","name":"⚽瓜子┃看球","type":3,"api":"csp_GzSportGuard","searchable":0,"changeable":0,"style":{"type":"list"},"timeout":10},
-    {"key":"88看球","name":"⚽88┃看球","type":3,"api":"csp_KanqiuGuard","searchable":0,"changeable":0,"style":{"type":"list"},"timeout":10}, 
-		 
+    	 {
+            "key": "厂长弹幕",
+            "name": "厂长｜弹幕",
+            "type": 3,
+            "api": "csp_Czzy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            }	 
   {
       "key": "豆瓣",
       "name": "豆瓣丨推荐",
@@ -59,17 +65,7 @@
             },
             "jar": "https://gitee.com/SOSTV/YOY/raw/master/wei.jar"
         },
-        {
-            "key": "厂长弹幕",
-            "name": "厂长｜弹幕",
-            "type": 3,
-            "api": "csp_Czzy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            }
+       
         },
         {
             "key": "天天弹幕",
