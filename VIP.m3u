@@ -1,21 +1,6 @@
-#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml","http://cdn.1678520.xyz/epg"
-#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml","http://epg.aptvapp.com/xml","https://epg.pw/xmltv/epg_CN.xml","https://epg.pw/xmltv/epg_HK.xml","https://epg.pw/xmltv/epg_TW.xml"
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml","http://epg.51zmt.top:8000/e.xml","http://epg.aptvapp.com/xml"
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_CN.xml","https://epg.pw/xmltv/epg_HK.xml","https://epg.pw/xmltv/epg_TW.xml"
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-
-//////////////////////////////////////////////////////////
-         
-                       新增频道
-#EXTINF:-1 tvg-name="未知频道" tvg-logo="https://live.fanmingming.cn/tv/未知频道.png" group-title="新增频道",未知频道1
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230944/4/index.m3u8
-#EXTINF:-1 tvg-name="未知频道" tvg-logo="https://live.fanmingming.cn/tv/未知频道.png" group-title="新增频道",未知频道3
-http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236272/3/index.m3u8
-#EXTINF:-1 tvg-name="未知频道" tvg-logo="https://live.fanmingming.cn/tv/未知频道.png" group-title="新增频道",俄语MV
-https://upos-sz-estghw.bilivideo.com/upgcxcode/91/87/140128791/140128791-1-208.mp4?e=ig8euxZM2rNcNbhjhWdVhwdlhzT1hwdVhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&tag=&oi=0x24098a285e331a748d1377dd730a5a48&mid=0&deadline=1744296330&gen=playurlv3&nbs=1&uipk=5&platform=pc&trid=943c5c9b77f44748923da6103beb484u&os=upos&og=hw&upsig=27ca18d67a04dc2bb7efab5300fc3501&uparams=e,tag,oi,mid,deadline,gen,nbs,uipk,platform,trid,os,og&bvc=vod&nettype=0&bw=2900076&dl=0&f=u_0_0&agrr=0&buvid=&build=0&orderid=0,3
-#EXTINF:-1 tvg-name="未知频道" tvg-logo="https://live.fanmingming.cn/tv/未知频道.png" group-title="新增频道",未知频道
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230944/4/index.m3u8
-#EXTINF:-1 tvg-name="未知频道" tvg-logo="https://live.fanmingming.cn/tv/未知频道.png" group-title="新增频道",未知频道2
-http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236505/1/index.m3u8
-//////////////////////////////////////////////////////////
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="🇨🇳央视频道",CCTV-1
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236222/index.m3u8$浙江移动•IPV4『线路1』
@@ -361,80 +346,80 @@ http://nas.hssvm.com:8888/udp/225.1.1.182:5002
                            电影频道
 
 //////////////////////////////////////////////////
-#EXTINF:-1 tvg-name="1905极限反转" tvg-logo="https://epg.iill.top/logo/1905.png" group-title="🎬电影频道",1905 极限反转
+#EXTINF:-1 tvg-name="1905极限反转" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iHOT/1905.png" group-title="🎬电影频道",1905 极限反转
 http://dns.yiandrive.com:15907/1905/1905a
-#EXTINF:-1 tvg-name="1905环球经典" tvg-logo="https://gitee.com/SOSTV/Xu/raw/master/logo/内地/1905环球经典.png" group-title="🎬电影频道",1905 环球经典
+#EXTINF:-1 tvg-name="1905环球经典" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/NewTV/1905环球经典.png" group-title="🎬电影频道",1905 环球经典
 http://dns.yiandrive.com:15907/1905/1905b
 
-#EXTINF:-1 tvg-name="NEWTV中国功夫" tvg-logo="https://gitee.com/SOSTV/Xu/raw/master/logo/内地/NEWTV中国功夫.png" group-title="🎬电影频道",NEWTV中国功夫
+#EXTINF:-1 tvg-name="NEWTV中国功夫" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/NewTV/NEWTV中国功夫.png" group-title="🎬电影频道",NEWTV中国功夫
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236267/index.m3u8
 http://39.134.65.164/PLTV/88888888/224/3221225604/1.m3u8
-#EXTINF:-1 tvg-name="NEWTV超级电影" tvg-logo="https://gitee.com/SOSTV/Xu/raw/master/logo/内地/NEWTV超级电影.png" group-title="🎬电影频道",NEWTV超级电影
+#EXTINF:-1 tvg-name="NEWTV超级电影" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/NewTV/NEWTV超级电影.png" group-title="🎬电影频道",NEWTV超级电影
 http://39.134.65.164/PLTV/88888888/224/3221225644/1.m3u8
 http://39.135.133.5/wh7f454c46tw4053218109_1063626903/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8?$北京移动•IPV6『1080P』
 http://111.29.9.33:6610/000000001000/1000000001000012884/index.m3u8?channel-id=bestzb&Contentid=1000000001000012884&livemode=1&stbId=3
 http://home.dzlove.top:35455/itv/1000000003000012426.m3u8?cdn=ystenlive
 http://www.terrykang.xyz:35455/itv/1000000003000012426.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-name="动作电影" tvg-logo="https://gitee.com/SOSTV/Xu/raw/master/logo/内地/NEWTV动作电影.png" group-title="🎬电影频道",NEWTV动作电影
+#EXTINF:-1 tvg-name="动作电影" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/NewTV/NEWTV动作电影.png" group-title="🎬电影频道",NEWTV动作电影
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236183/index.m3u8
-#EXTINF:-1 tvg-name="NEWTV热播精选" tvg-logo="https://gitee.com/SOSTV/Xu/raw/master/logo/内地/NEWTV热播精选.png" group-title="🎬电影频道",NEWTV热播精选
+#EXTINF:-1 tvg-name="NEWTV热播精选" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/NewTV/NEWTV热播精选.png" group-title="🎬电影频道",NEWTV热播精选
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236204/index.m3u8
-#EXTINF:-1 tvg-name="NEWTV惊悚悬疑" tvg-logo="https://gitee.com/SOSTV/Xu/raw/master/logo/内地/NEWTV惊悚悬疑.png" group-title="🎬电影频道",NEWTV惊悚悬疑
+#EXTINF:-1 tvg-name="NEWTV惊悚悬疑" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/NewTV/NEWTV惊悚悬疑.png" group-title="🎬电影频道",NEWTV惊悚悬疑
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236223/index.m3u8
 http://39.134.65.164/PLTV/88888888/224/3221225553/1.m3u8
-#EXTINF:-1 tvg-name="NEWTV古装剧场" tvg-logo="https://gitee.com/SOSTV/Xu/raw/master/logo/内地/NEWTV古装剧场.png" group-title="🎬电影频道",NEWTV古装剧场
+#EXTINF:-1 tvg-name="NEWTV古装剧场" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/NewTV/NEWTV古装剧场.png" group-title="🎬电影频道",NEWTV古装剧场
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236240/index.m3u8
 http://39.134.65.194/PLTV/88888888/224/3221225524/1.m3u8
-#EXTINF:-1 tvg-name="NEWTV爱情喜剧" tvg-logo="https://gitee.com/SOSTV/Xu/raw/master/logo/内地/NEWTV爱情喜剧.png" group-title="🎬电影频道",NEWTV爱情喜剧
+#EXTINF:-1 tvg-name="NEWTV爱情喜剧" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/NewTV/NEWTV爱情喜剧.png" group-title="🎬电影频道",NEWTV爱情喜剧
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236179/index.m3u8
 http://39.134.65.164/PLTV/88888888/224/3221225533/1.m3u8
-#EXTINF:-1 tvg-name="NEWTV精品电影" tvg-logo="https://gitee.com/SOSTV/Xu/raw/master/logo/内地/NEWTV精品电影.png" group-title="🎬电影频道",NEWTV精品电影
+#EXTINF:-1 tvg-name="NEWTV精品电影" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/NewTV/NEWTV精品电影.png" group-title="🎬电影频道",NEWTV精品电影
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231330/1/index.m3u8
-#EXTINF:-1 tvg-name="NEWTV精品大剧" tvg-logo="https://gitee.com/SOSTV/Xu/raw/master/logo/内地/NEWTV精品大剧.png" group-title="🎬电影频道",NEWTV精品大剧
+#EXTINF:-1 tvg-name="NEWTV精品大剧" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/NewTV/NEWTV精品大剧.png" group-title="🎬电影频道",NEWTV精品大剧
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236239/index.m3u8
-#EXTINF:-1 tvg-name="NEWTV精品综合" tvg-logo="https://gitee.com/SOSTV/Xu/raw/master/logo/内地/NEWTV精品综合.png" group-title="🎬电影频道",NEWTV精品综合
+#EXTINF:-1 tvg-name="NEWTV精品综合" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/NewTV/NEWTV精品综合.png" group-title="🎬电影频道",NEWTV精品综合
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236153/index.m3u8
 http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
 http://39.134.65.194/PLTV/88888888/224/3221225550/1.m3u8
 http://39.134.65.166/PLTV/88888888/224/3221225550/1.m3u8
-#EXTINF:-1 tvg-name="NEWTV军旅剧场" tvg-logo="https://gitee.com/SOSTV/Xu/raw/master/logo/内地/NEWTV军旅剧场.png" group-title="🎬电影频道",NEWTV军旅剧场
+#EXTINF:-1 tvg-name="NEWTV军旅剧场" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/NewTV/NEWTV军旅剧场.png" group-title="🎬电影频道",NEWTV军旅剧场
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236278/index.m3u8
 http://39.134.65.164/PLTV/88888888/224/3221225560/1.m3u8
-#EXTINF:-1 tvg-name="NEWTV欢乐剧场" tvg-logo="https://gitee.com/SOSTV/Xu/raw/master/logo/内地/NEWTV欢乐剧场.png" group-title="🎬电影频道",NEWTV欢乐剧场
+#EXTINF:-1 tvg-name="NEWTV欢乐剧场" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/NewTV/NEWTV欢乐剧场.png" group-title="🎬电影频道",NEWTV欢乐剧场
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236173/index.m3u8
 http://39.134.65.175/PLTV/88888888/224/3221225682/1.m3u8
-#EXTINF:-1 tvg-name="NEWTV家庭剧场" tvg-logo="https://gitee.com/SOSTV/Xu/raw/master/logo/内地/NEWTV家庭剧场.png" group-title="🎬电影频道",NEWTV家庭剧场
+#EXTINF:-1 tvg-name="NEWTV家庭剧场" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/NewTV/NEWTV家庭剧场.png" group-title="🎬电影频道",NEWTV家庭剧场
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236206/index.m3u8
-#EXTINF:-1 tvg-name="魅力潇湘" tvg-logo="https://gitee.com/SOSTV/Xu/raw/master/logo/内地/NEWTV魅力潇湘.png" group-title="🎬电影频道",NEWTV魅力潇湘
+#EXTINF:-1 tvg-name="魅力潇湘" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/NewTV/NEWTV魅力潇湘.png" group-title="🎬电影频道",NEWTV魅力潇湘
 http://36.154.64.77:5000/TVOD/2000000003000000041/hnbblive/index.m3u8$•3.13更新『线路1』
 http://103.60.111.215:50100/TVOD/2000000003000000041/hnbblive/index.m3u8$•3.13更新『线路2』
 http://114.32.59.86:7000/itv/2000000003000000041.m3u8?cdn=hnbblive$•3.13更新『线路3』
 http://39.129.36.61:18030/itv/2000000003000000041/hnbblive$•3.13更新『线路4』
 http://45.8.186.120:8000/itv/2000000003000000041/hnbblive$•3.13更新『线路5』
 http://142.171.221.253:7766/TVOD/2000000003000000041/hnbblive/index.m3u8$•3.13更新『线路6』
-#EXTINF:-1 tvg-name="东北热剧" tvg-logo="https://gitee.com/SOSTV/Xu/raw/master/logo/内地/NEWTV东北热剧.png" group-title="🎬电影频道",NEWTV东北热剧
+#EXTINF:-1 tvg-name="东北热剧" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/NewTV/NEWTV东北热剧.png" group-title="🎬电影频道",NEWTV东北热剧
 http://39.135.135.28:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 http://39.134.65.164/PLTV/88888888/224/3221225679/1.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225741/index.m3u8
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010021/1.m3u8
-#EXTINF:-1   tvg-name="NEWTV热播剧集"  tvg-logo="https://gitee.com/SOSTV/Xu/raw/master/logo/内地/NEWTV热播剧集.png" group-title="🎬电影频道",NEWTV热播剧集
+#EXTINF:-1   tvg-name="NEWTV热播剧集"  tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/NewTV/NEWTV热播剧集.png" group-title="🎬电影频道",NEWTV热播剧集
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236396/index.m3u8
-#EXTINF:-1 tvg-name="超级电视剧" tvg-logo="https://gitee.com/SOSTV/Xu/raw/master/logo/内地/NEWTV超级电视剧.png"  group-title="🎬电影频道",NEWTV超级电视剧
+#EXTINF:-1 tvg-name="超级电视剧" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/NewTV/NEWTV超级电视剧.png"  group-title="🎬电影频道",NEWTV超级电视剧
 http://39.134.65.65:80/TVOD/88888888/224/3221225637/main.m3u8
 http://39.134.65.164/PLTV/88888888/224/3221225637/1.m3u8
 http://home.dzlove.top:35455/itv/1000000004000024993.m3u8?cdn=ystenlive
 http://www.terrykang.xyz:35455/itv/1000000004000024993.m3u8?cdn=ystenlive
 
-#EXTINF:-1 tvg-name="潮妈辣婆" tvg-logo="https://gitee.com/SOSTV/Xu/raw/master/logo/内地/NEWTV潮妈辣婆.png" group-title="🎬电影频道",NEWTV潮妈辣婆
+#EXTINF:-1 tvg-name="潮妈辣婆" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/NewTV/NEWTV潮妈辣婆.png" group-title="🎬电影频道",NEWTV潮妈辣婆
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236167/index.m3u8
 http://39.134.65.194/PLTV/88888888/224/3221225542/1.m3u8
 http://39.134.65.164/PLTV/88888888/224/3221225542/1.m3u8
-#EXTINF:-1 tvg-name="NEWTV海外影院" tvg-logo="https://gitee.com/SOSTV/Xu/raw/master/logo/内地/海外影院1.png" group-title="🎬电影频道",海外影院
+#EXTINF:-1 tvg-name="NEWTV海外影院" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/NewTV/海外影院1.png" group-title="🎬电影频道",海外影院
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236157/index.m3u8
-#EXTINF:-1 tvg-name="海外剧场" tvg-logo="https://gitee.com/SOSTV/Xu/raw/master/logo/内地/海外剧场1.png" group-title="🎬电影频道",海外剧场
+#EXTINF:-1 tvg-name="海外剧场" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/NewTV/海外剧场1.png" group-title="🎬电影频道",海外剧场
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236208/index.m3u8
 #EXTINF:-1,tvg-id="北京IPTV4K" tvg-name="北京IPTV4K" tvg-logo="https://epg.v1.mk/logo/北京IPTV4K.png" group-title="🎬电影频道",北京IPTV 4K
 http://111.193.169.187:4022/rtp/239.3.1.249:8001
@@ -448,28 +433,28 @@ http://222.129.33.31:6666/rtp/239.3.1.95:8001
 http://123.113.35.56:4022/rtp/239.3.1.95:8001
 http://111.193.169.187:4022/rtp/239.3.1.95:8001
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8?
-#EXTINF:-1 tvg-name="爱谍战" tvg-logo="https://epg.iill.top/logo/iHOT爱谍战.png"group-title="🎬电影频道",iHOT爱谍战
+#EXTINF:-1 tvg-name="爱谍战" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iHOT/iHOT爱谍战.png"group-title="🎬电影频道",iHOT爱谍战
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230092/index.m3u8
-#EXTINF:-1 tvg-name="爱旅行" tvg-logo="https://epg.iill.top/logo/iHOT爱旅行.png"group-title="🎬电影频道",iHOT爱旅行
+#EXTINF:-1 tvg-name="爱旅行" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iHOT/iHOT爱旅行.png"group-title="🎬电影频道",iHOT爱旅行
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230052/index.m3u8
-#EXTINF:-1 tvg-name="爱科学" tvg-logo="https://epg.iill.top/logo/iHOT爱科学.png"group-title="📺数字频道",iHOT爱科学
+#EXTINF:-1 tvg-name="爱科学" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iHOT/iHOT爱科学.png"group-title="📺数字频道",iHOT爱科学
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235603/1/index.m3u8
-#EXTINF:-1 tvg-name="爱院线" tvg-logo="https://epg.iill.top/logo/iHOT爱院线.png"group-title="🎬电影频道",iHOT爱院线
+#EXTINF:-1 tvg-name="爱院线" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iHOT/iHOT爱院线.png"group-title="🎬电影频道",iHOT爱院线
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230019/1/index.m3u8
-#EXTINF:-1 tvg-name="爱科幻" tvg-logo="https://epg.iill.top/logo/iHOT爱科幻.png"group-title="🎬电影频道",iHOT爱科幻
+#EXTINF:-1 tvg-name="爱科幻" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iHOT/iHOT爱科幻.png"group-title="🎬电影频道",iHOT爱科幻
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230025/1/index.m3u8
-#EXTINF:-1 tvg-name="iHOT爱奇谈" tvg-logo="https://epg.iill.top/logo/iHOT爱奇谈.png"group-title="🎬电影频道",iHOT爱奇谈
+#EXTINF:-1 tvg-name="iHOT爱奇谈" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iHOT/iHOT爱奇谈.png"group-title="🎬电影频道",iHOT爱奇谈
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235605/1/index.m3u8
-#EXTINF:-1 tvg-name="iHOT爱浪漫" tvg-logo="https://epg.iill.top/logo/iHOT爱浪漫.png"group-title="🎬电影频道",iHOT爱浪漫
+#EXTINF:-1 tvg-name="iHOT爱浪漫" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iHOT/iHOT爱浪漫.png"group-title="🎬电影频道",iHOT爱浪漫
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230005/1/index.m3u8
-#EXTINF:-1 tvg-name="iHOT爱喜剧" tvg-logo="https://epg.iill.top/logo/iHOT爱喜剧.png"group-title="🎬电影频道",iHOT爱喜剧
+#EXTINF:-1 tvg-name="iHOT爱喜剧" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iHOT/iHOT爱喜剧.png"group-title="🎬电影频道",iHOT爱喜剧
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230022/1/index.m3u8
-#EXTINF:-1 tvg-name="iHOT爱悬疑" tvg-logo="https://epg.iill.top/logo/iHOT爱悬疑.png"group-title="🎬电影频道",iHOT爱悬疑
+#EXTINF:-1 tvg-name="iHOT爱悬疑" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iHOT/iHOT爱悬疑.png"group-title="🎬电影频道",iHOT爱悬疑
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230098/index.m3u8
-#EXTINF:-1 tvg-name="iHOT爱历史" tvg-logo="https://epg.iill.top/logo/iHOT爱历史.png"group-title="📺数字频道",iHOT爱历史
+#EXTINF:-1 tvg-name="iHOT爱历史" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iHOT/iHOT爱历史.png"group-title="📺数字频道",iHOT爱历史
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230100/index.m3u8
 
-#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/SOSTV/Xu/raw/master/logo/内地/CHC家庭影院.png" group-title="🎬电影频道",CHC家庭影院
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/CHC家庭影院.png" group-title="🎬电影频道",CHC家庭影院
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236359/index.m3u8
 http://www.lizhinas.top:1009/rtp/239.252.219.84:5140$【线路二 4.29更新】
 http://183.237.95.108:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -477,14 +462,14 @@ http://110.53.52.63:8888/newlive/live/hls/51/live.m3u8
 http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
 http://hlszymgsplive.miguvideo.com:8080/wd_r3/cnr/chcjtyy/3000/01.m3u8
 http://sun.woisun.com:5555/udp/225.1.1.213:5002
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://gitee.com/SOSTV/Xu/raw/master/logo/内地/CHC动作电影.png" group-title="🎬电影频道",CHC动作电影
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/CHC动作电影.png" group-title="🎬电影频道",CHC动作电影
 http://www.lizhinas.top:1009/rtp/239.252.219.85:5140$【线路一 4.29更新】
 http://183.237.95.108:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
 http://218.15.183.23:9901/tsfile/live/23039_1.m3u8
 http://120.238.94.82:9901/tsfile/live/1052_1.m3u8
 http://dassby.qqff.top:99/live/CHC动作电影/index.m3u8
 http://110.53.52.63:8888/newlive/live/hls/53/live.m3u8
-#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://gitee.com/SOSTV/Xu/raw/master/logo/内地/CHC影迷电影.png" group-title="🎬电影频道",CHC影迷电影
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/CHC影迷电影.png" group-title="🎬电影频道",CHC影迷电影
 http://www.520345.xyz:8188/rtp/239.69.1.241:11088
 http://www.lizhinas.top:1009/rtp/239.252.219.83:5140$【线路一 4.29更新】
 http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -497,7 +482,7 @@ http://180.213.174.225:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid
 http://58.17.48.228:808/hls/28/index.m3u8
 #EXTINF:-1 tvg-name="星光影视" tvg-id="星光影视" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/星光综合台.png" group-title="🎬电影频道", 星光影视
 http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
-#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://gitee.com/SOSTV/Xu/raw/master/logo/内地/重温经典.png" group-title="🎬电影频道",重温经典
+#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/重温经典.png" group-title="🎬电影频道",重温经典
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236436/1/index.m3u8
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236434/1/index.m3u8
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236436/3/index.m3u8
@@ -2226,7 +2211,6 @@ https://live.iill.top/huya/21241813
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/13303478&huya&logo" group-title="🆎影视解说",🐯虎牙┃阿斗归来了
-https://hs.p2p.huya.com/huyalive/94525224-2583571962-11096357083652554752-3503038830-10057-A-0-1_420_2_66.slice?wsSecret=e037e0805a99b3f7706950e6d568cf65&wsTime=67f3d8e7&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_webh5&txyp=o%3Acp1%3B&fs=gctex&ex1=0&dMod=wcs-25&hxtype=0&baseIndex=4769339719013854&baseSubs=8&sub=1,2,3,4,5,6,7&maxSeq=4769339719013855&timeStamp2025-04-07_21:49:13.751&uuid=742498336&u=1201776135752&t=100&sv=2502171946&sdk_sid=1744033716794&a_block=0
 https://live.iill.top/huya/13303478
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/19863777&huya&logo" group-title="🆎影视解说",🐯虎牙┃止戈电影「解说」
 https://live.iill.top/huya/19863777
@@ -6263,12 +6247,10 @@ https://piccpndali.v.myalicdn.com/audio/cetv4_2.m3u8
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://live.fanmingming.cn/tv/香港卫视.png" group-title="🇭🇰港·澳·台",🇭🇰香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 #EXTINF:-1 tvg-name="TVB翡翠台" tvg-logo="https://live.fanmingming.cn/tv/TVB翡翠台.png" group-title="🇭🇰港·澳·台",🇭🇰TVB翡翠台
-http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
 http://php.jdshipin.com:8880/smt.php?id=jade_twn
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-http://aktv_stream.m16tv.cfd/stream/aktv/null/AKTV.m3u8$『AKTV 线路一』
+
 http://183.237.95.108:9901/tsfile/live/1076_1.m3u8?key=txiptv&playlive=0&authid=0$线路二 •广东IPTV『1080P』
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 
 http://vallest.uk/livehttpplay?channel_id=30025
 http://hkenlive.uk/livehttpplay?channel_id=13027
@@ -6340,21 +6322,15 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
 http://cdn.132.us.kg/live/tvbp/stream.m3u8
 http://cdn.163189.xyz/live/?id=tvbp
 https://haoyunlai.serv00.net/Smartv-1.php?id=j2_twn
-http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476931.m3u8
-http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476933.m3u8
-https://stream1.freetv.fun/tvb-j2-1.m3u8
-
 #EXTINF:-1 tvg-name="亚洲新闻" tvg-logo="https://live.fanmingming.cn/tv/亚洲新闻.png" group-title="🇭🇰港·澳·台",🇭🇰亚洲新闻
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://live.fanmingming.cn/tv/TVB星河.png" group-title="🇭🇰港·澳·台",🇭🇰TVB星河【国语】
 https://s1.m16tv.cfd/taiwan2/tvb/AKTV.m3u8
-http://aktv_stream.m16tv.cfd/stream/astro_a1/tvbxinghe/AKTV.m3u8
 http://ali.hlspull.yximgs.com/live/TVB_tvbxf.flv
 #EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://live.fanmingming.cn/tv/TVB星河.png" group-title="🇭🇰港·澳·台",🇭🇰TVB星河【粤语】
 http://183.237.95.108:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0$【1080P】
-http://aktv_stream.m16tv.cfd/stream/astro_a1/tvbxinghe/AKTV.m3u8
 http://cdn9.163189.xyz/smt1.1.php?id=Xinhe
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
 
@@ -6406,7 +6382,7 @@ https://149.102.97.122/ch6/hd_ch6.live/playlist.m3u8
 #EXTINF:-1,tvg-id="澳门MACAU" tvg-name="澳门MACAU" tvg-logo="https://epg.v1.mk/logo/澳门MACAU.png" group-title="🇭🇰港·澳·台",澳视葡文台
 https://149.102.97.122/ch2/ch2.live/playlist.m3u8
 #EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://live.fanmingming.com/tv/美亞電影台(HK).png" group-title="🇭🇰港·澳·台",美亞電影台(HK)『国语』
-https://s1.m16tv.cfd/aktv/hk/AKTV.m3u8
+https://s1.m16tv.cfd/aktv/hk/AKTV.m3u8$【AKTV 线路一】
 http://bx.757888.xyz/api.php?id=meiya
 http://aktv_stream.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8$【AKTV 线路一】
 http://免.l5.ca/daili/Smartv.php?id=meiyamovie_twn
@@ -6416,6 +6392,7 @@ p3p://167.114.175.6:55331/655f8ccc0007d2578e70f934113a2428
 p3p://108.181.32.169:54829/642525310003ad3cea72ca2155c734c3
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
 #EXTINF:-1 tvg-name="美亚电影"  tvg-logo="https://epg.pw/media/images/channel/2016/07/19/large/20160719142956282911_66.png" group-title="🇭🇰港·澳·台",美亚电影台『粤语』
+https://s1.m16tv.cfd/aktv/hk/AKTV.m3u8$【AKTV 粤】
 http://aktv_stream.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8
 http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 #EXTINF:-1 tvg-name="天映CM+" tvg-id="368371" tvg-country="Malaysia" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2024/12/26/large/20241226152608705551_68.jpg" group-title="🇭🇰港·澳·台",🇭🇰天映经典CCM『国语』
@@ -7030,8 +7007,7 @@ http://aktv_stream.m16tv.cfd/stream/tuntun/astro/AKTV.m3u8
 http://aktv_stream.m16tv.cfd/stream/useradd1/ntvnews24/AKTV.m3u8
 #EXTINF:-1 tvg-name="viuTV" tvg-logo="https://live.fanmingming.com/tv/viuTV.png" tvg-group-title="🇭🇰港·澳·台",viuTV
 http://aktv_stream.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8
-#EXTINF:-1 tvg-name="viuTV" tvg-logo="https://live.fanmingming.com/tv/朝鲜恩情台.png" tvg-group-title="🇭🇰港·澳·台",朝鲜恩情台
-http://aktv_stream.m16tv.cfd/stream/nknews/null/AKTV.m3u8
+
 #EXTINF:-1 tvg-name="HISTORY頻道" tvg-logo="https://live.fanmingming.com/tv/HISTORY頻道.png" tvg-group-title="🇭🇰港·澳·台",HISTORY頻道
 http://37.27.111.214:8080/live/27/hls.m3u8
 #EXTINF:-1 tvg-name="HITs電影頻道" tvg-logo="https://live.fanmingming.com/tv/HITs電影頻道.png" tvg-group-title="🇭🇰港·澳·台",HITs電影頻道
