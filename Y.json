@@ -2191,10 +2191,9 @@
 	    {
              "name": "浙江移动IPV6",
             "type": 0,
-            "boot": "true",
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/YXAXY/TV/refs/heads/main/ZJYD-IPV6.m3u",
+           "url": "https://ghproxy.net/https://raw.githubusercontent.com/YXAXY/TV/refs/heads/main/ZJYD-IPV6.m3u",
             "ua": "okhttp/3.15",
-             "playerType": 1,
+             "playerType": 2,
              "timeout": 20
            
 		},
@@ -2204,7 +2203,7 @@
             "boot": "true",
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/YXAXY/TV/refs/heads/main/VIP.m3u",
             "ua": "okhttp/3.15",
-             "playerType": 1,
+             "playerType": 2,
              "timeout": 20
            
 		},
