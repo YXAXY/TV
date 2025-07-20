@@ -5,9 +5,9 @@
 "logo":"https://d.kstore.dev/download/7336/tv/logo.gif",
   
 "warningText": "欢迎回来",
-   
-	 "sites": [
-    	 {
+    "sites": [
+  
+ {
             "key": "厂长弹幕",
             "name": "厂长｜弹幕",
             "type": 3,
@@ -17,8 +17,8 @@
             "filterable": 1,
             "ext": {
                 "danmu": true
-            }	 
-    },
+            }
+        },
   {
       "key": "豆瓣",
       "name": "豆瓣丨推荐",
@@ -67,7 +67,6 @@
             "jar": "https://gitee.com/SOSTV/YOY/raw/master/wei.jar"
         },
        
-        },
         {
             "key": "天天弹幕",
             "name": "天天｜弹幕",
@@ -2191,9 +2190,10 @@
 	    {
              "name": "浙江移动IPV6",
             "type": 0,
-           "url": "https://ghproxy.net/https://raw.githubusercontent.com/YXAXY/TV/refs/heads/main/ZJYD-IPV6.m3u",
+            "boot": "true",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/YXAXY/TV/refs/heads/main/ZJYD-IPV6.m3u",
             "ua": "okhttp/3.15",
-             "playerType": 2,
+             "playerType": 1,
              "timeout": 20
            
 		},
@@ -2203,7 +2203,7 @@
             "boot": "true",
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/YXAXY/TV/refs/heads/main/VIP.m3u",
             "ua": "okhttp/3.15",
-             "playerType": 2,
+             "playerType": 1,
              "timeout": 20
            
 		},
