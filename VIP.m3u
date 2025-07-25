@@ -359,189 +359,359 @@ http://106.124.91.222:9901/tsfile/live/21215_1.m3u8?key=txiptv&playlive=0&authid
 http://nas.hssvm.com:8888/udp/225.1.1.182:5002
 
 //////////////////////////////////////////////////////////////
+#EXTINF:-1, tvg-name="好片速递" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",好片速递
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c55_fast_1143_1080P_t10/c55_fast_1143_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c55_fast_1143_1080P_t10/c55_fast_1143_1080P_t10.m3u8?d
+http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c55_fast_1143_1080P_t10/c55_fast_1143_1080P_t10.m3u8?d
 #EXTINF:-1, tvg-name="神剧亮了" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",神剧亮了
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c55_fast_702_1080P_t10/c55_fast_702_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c55_fast_702_1080P_t10/c55_fast_702_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c55_fast_702_1080P_t10/c55_fast_702_1080P_t10.m3u8?d
 
 #EXTINF:-1, tvg-name="经典剧场" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",经典剧场1
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c54_fast_679_1080P_t10/c54_fast_679_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c54_fast_679_1080P_t10/c54_fast_679_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c54_fast_679_1080P_t10/c54_fast_679_1080P_t10.m3u8?d
-#EXTINF:-1, tvg-name="怀旧年代" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",怀旧年代（苏联老剧）
+#EXTINF:-1, tvg-name="怀旧年代" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",怀旧年代
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c59_fast_1134_1080P_t10/c59_fast_1134_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c59_fast_1134_1080P_t10/c59_fast_1134_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_1134_1080P_t10/c59_fast_1134_1080P_t10.m3u8?d
 #EXTINF:-1, tvg-name="经典老剧" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",经典老剧1
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c57_fast_978_1080P_t10/c57_fast_978_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c57_fast_978_1080P_t10/c57_fast_978_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c57_fast_978_1080P_t10/c57_fast_978_1080P_t10.m3u8?d
 #EXTINF:-1, tvg-name="经典老剧" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",经典老剧2
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c55_fast_1051_1080P_t10/c55_fast_1051_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c55_fast_1051_1080P_t10/c55_fast_1051_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c55_fast_1051_1080P_t10/c55_fast_1051_1080P_t10.m3u8?d
 #EXTINF:-1, tvg-name="经典老剧" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",经典老剧3
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c55_fast_1068_1080P_t10/c55_fast_1068_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c55_fast_1068_1080P_t10/c55_fast_1068_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c55_fast_1068_1080P_t10/c55_fast_1068_1080P_t10.m3u8?d
-
 #EXTINF:-1, tvg-name="中国维和" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",中国维和
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c54_fast_700_1080P_t10/c54_fast_700_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c54_fast_700_1080P_t10/c54_fast_700_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c54_fast_700_1080P_t10/c54_fast_700_1080P_t10.m3u8?d
-
 #EXTINF:-1, tvg-name="谍战剧场" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",谍战剧场
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c57_fast_882_1080P_t10/c57_fast_882_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c57_fast_882_1080P_t10/c57_fast_882_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c57_fast_882_1080P_t10/c57_fast_882_1080P_t10.m3u8?d
 #EXTINF:-1, tvg-name="红色剧场" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",红色剧场
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1049_1080P_t10/c60_fast_1049_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1049_1080P_t10/c60_fast_1049_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1049_1080P_t10/c60_fast_1049_1080P_t10.m3u8?d
 #EXTINF:-1, tvg-name="搞笑剪辑" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",搞笑剪辑
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c54_fast_859_1080P_t10/c54_fast_859_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c54_fast_859_1080P_t10/c54_fast_859_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c54_fast_859_1080P_t10/c54_fast_859_1080P_t10.m3u8?d
 #EXTINF:-1, tvg-name="家庭剧场" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",家庭剧场1
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c54_fast_877_1080P_t10/c54_fast_877_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c54_fast_877_1080P_t10/c54_fast_877_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c54_fast_877_1080P_t10/c54_fast_877_1080P_t10.m3u8?d
 #EXTINF:-1, tvg-name="家庭剧场" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",家庭剧场2
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c59_fast_999_1080P_t10/c59_fast_999_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c59_fast_999_1080P_t10/c59_fast_999_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_999_1080P_t10/c59_fast_999_1080P_t10.m3u8?d
 #EXTINF:-1, tvg-name="抗战剧场" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",抗战剧场1
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c54_fast_884_1080P_t10/c54_fast_884_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c54_fast_884_1080P_t10/c54_fast_884_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c54_fast_884_1080P_t10/c54_fast_884_1080P_t10.m3u8?d
 #EXTINF:-1, tvg-name="悬疑剧场1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",悬疑剧场1
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c54_fast_935_1080P_t10/c54_fast_935_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c54_fast_935_1080P_t10/c54_fast_935_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c54_fast_935_1080P_t10/c54_fast_935_1080P_t10.m3u8?d
 #EXTINF:-1, tvg-name="悬疑剧场2" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",悬疑剧场2
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c54_fast_995_1080P_t10/c54_fast_995_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c54_fast_995_1080P_t10/c54_fast_995_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c54_fast_995_1080P_t10/c54_fast_995_1080P_t10.m3u8?d
 #EXTINF:-1, tvg-name="悬疑剧场3" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",悬疑剧场3
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c54_fast_1005_1080P_t10/c54_fast_1005_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c54_fast_1005_1080P_t10/c54_fast_1005_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c54_fast_1005_1080P_t10/c54_fast_1005_1080P_t10.m3u8?d
 #EXTINF:-1, tvg-name="悬疑剧场4" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",悬疑剧场4
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c55_fast_677_1080P_t10/c55_fast_677_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c55_fast_677_1080P_t10/c55_fast_677_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c55_fast_677_1080P_t10/c55_fast_677_1080P_t10.m3u8?d
-#EXTINF:-1, tvg-name="悬疑剧场5" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",悬疑剧场5
-http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c55_fast_1143_1080P_t10/c55_fast_1143_1080P_t10.m3u8?d
 #EXTINF:-1, tvg-name="悬疑剧场6" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",悬疑剧场6
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c57_fast_985_1080P_t10/c57_fast_985_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c57_fast_985_1080P_t10/c57_fast_985_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c57_fast_985_1080P_t10/c57_fast_985_1080P_t10.m3u8?d
 #EXTINF:-1, tvg-name="动漫剧场" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",警匪悬疑
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c57_fast_955_1080P_t10/c57_fast_955_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c57_fast_955_1080P_t10/c57_fast_955_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c57_fast_955_1080P_t10/c57_fast_955_1080P_t10.m3u8?d
 #EXTINF:-1, tvg-name="警匪悬疑" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",警匪悬疑
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c58_fast_880_1080P_t10/c58_fast_880_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c58_fast_880_1080P_t10/c58_fast_880_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_880_1080P_t10/c58_fast_880_1080P_t10.m3u8?d
 #EXTINF:-1, tvg-name="魔幻剧场" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",魔幻剧场
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c57_fast_738_1080P_t10/c57_fast_738_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c57_fast_738_1080P_t10/c57_fast_738_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c57_fast_738_1080P_t10/c57_fast_738_1080P_t10.m3u8?d
 #EXTINF:-1, tvg-name="古装大剧1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",古装大剧1
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c54_fast_996_1080P_t10/c54_fast_996_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c54_fast_996_1080P_t10/c54_fast_996_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c54_fast_996_1080P_t10/c54_fast_996_1080P_t10.m3u8?d
 #EXTINF:-1, tvg-name="古装大剧2" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",古装大剧2
-http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c55_fast_736_1080P_t10/c55_fast_736_1080P_t10.m3u8?d
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c55_fast_736_1080P_t10/c55_fast_736_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c55_fast_736_1080P_t10/c55_fast_736_1080P_t10.m3u8?d
 #EXTINF:-1, tvg-name="古装大剧3" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",古装大剧3
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c55_fast_879_1080P_t10/c55_fast_879_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c55_fast_879_1080P_t10/c55_fast_879_1080P_t10.m3u8?d
 #EXTINF:-1, tvg-name="古装大剧" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",古装大剧4
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c56_fast_962_1080P_t10/c56_fast_962_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c56_fast_962_1080P_t10/c56_fast_962_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c56_fast_962_1080P_t10/c56_fast_962_1080P_t10.m3u8?d
 #EXTINF:-1, tvg-name="古装大剧" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",古装大剧5
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c57_fast_959_1080P_t10/c57_fast_959_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c57_fast_959_1080P_t10/c57_fast_959_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c57_fast_959_1080P_t10/c57_fast_959_1080P_t10.m3u8?d
 #EXTINF:-1, tvg-name="古装剧场" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",古装大剧6
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c58_fast_750_1080P_t10/c58_fast_750_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c58_fast_750_1080P_t10/c58_fast_750_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_750_1080P_t10/c58_fast_750_1080P_t10.m3u8?d
 #EXTINF:-1, tvg-name="经典剧场" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",都市剧场1
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c54_fast_997_1080P_t10/c54_fast_997_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c54_fast_997_1080P_t10/c54_fast_997_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c54_fast_997_1080P_t10/c54_fast_997_1080P_t10.m3u8?d
 #EXTINF:-1, tvg-name="都市剧场" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",都市剧场2 
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c55_fast_980_1080P_t10/c55_fast_980_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c55_fast_980_1080P_t10/c55_fast_980_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c55_fast_980_1080P_t10/c55_fast_980_1080P_t10.m3u8?d
 #EXTINF:-1, tvg-name="都市生活" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",都市生活2
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c56_fast_878_1080P_t10/c56_fast_878_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c56_fast_878_1080P_t10/c56_fast_878_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c56_fast_878_1080P_t10/c56_fast_878_1080P_t10.m3u8?d
 #EXTINF:-1, tvg-name="都市生活" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",都市生活3
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c56_fast_956_1080P_t10/c56_fast_956_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c56_fast_956_1080P_t10/c56_fast_956_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c56_fast_956_1080P_t10/c56_fast_956_1080P_t10.m3u8?d
 #EXTINF:-1, tvg-name="都市生活" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",都市生活4
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c56_fast_951_1080P_t10/c56_fast_951_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c56_fast_951_1080P_t10/c56_fast_951_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c56_fast_951_1080P_t10/c56_fast_951_1080P_t10.m3u8?d
 #EXTINF:-1, tvg-name="传奇剧场" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",传奇剧场1
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c54_fast_1052_1080P_t10/c54_fast_1052_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c54_fast_1052_1080P_t10/c54_fast_1052_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c54_fast_1052_1080P_t10/c54_fast_1052_1080P_t10.m3u8?d
 #EXTINF:-1, tvg-name="传奇剧场" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",传奇剧场2
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c56_fast_981_1080P_t10/c56_fast_981_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c56_fast_981_1080P_t10/c56_fast_981_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c56_fast_981_1080P_t10/c56_fast_981_1080P_t10.m3u8?d
 #EXTINF:-1, tvg-name="传奇剧场" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",传奇剧场3
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c58_fast_1003_1080P_t10/c58_fast_1003_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c58_fast_1003_1080P_t10/c58_fast_1003_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_1003_1080P_t10/c58_fast_1003_1080P_t10.m3u8?d
 #EXTINF:-1, tvg-name="迷雾剧场" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",迷雾剧场
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c55_fast_673_1080P_t10/c55_fast_673_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c55_fast_673_1080P_t10/c55_fast_673_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c55_fast_673_1080P_t10/c55_fast_673_1080P_t10.m3u8?d
 #EXTINF:-1, tvg-name="乡村剧场" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",乡村剧场
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c59_fast_1050_1080P_t10/c59_fast_1050_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c59_fast_1050_1080P_t10/c59_fast_1050_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_1050_1080P_t10/c59_fast_1050_1080P_t10.m3u8?d
-#EXTINF:-1, tvg-name="爱情生活" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道"职场剧场1
+#EXTINF:-1, tvg-name="爱情生活" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",职场剧场1
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c57_fast_1007_1080P_t10/c57_fast_1007_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c57_fast_1007_1080P_t10/c57_fast_1007_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c57_fast_1007_1080P_t10/c57_fast_1007_1080P_t10.m3u8?d
+
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c55_fast_676_1080P_t10/c55_fast_676_1080P_t10.m3u8?d
+
+
 #EXTINF:-1, tvg-name="狂飙" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",《狂飙》
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c56_fast_993_1080P_t10/c56_fast_993_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c56_fast_993_1080P_t10/c56_fast_993_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c56_fast_993_1080P_t10/c56_fast_993_1080P_t10.m3u8?d
 #EXTINF:-1, tvg-name="校园生活" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",校园生活1
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c57_fast_755_1080P_t10/c57_fast_755_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c57_fast_755_1080P_t10/c57_fast_755_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c57_fast_755_1080P_t10/c57_fast_755_1080P_t10.m3u8?d
 #EXTINF:-1, tvg-name="校园生活" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",校园生活2
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c58_fast_979_1080P_t10/c58_fast_979_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c58_fast_979_1080P_t10/c58_fast_979_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_979_1080P_t10/c58_fast_979_1080P_t10.m3u8?d
 #EXTINF:-1, tvg-name="爱情生活" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",爱情生活
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c59_fast_967_1080P_t10/c59_fast_967_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c59_fast_967_1080P_t10/c59_fast_967_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_967_1080P_t10/c59_fast_967_1080P_t10.m3u8?d
-
 #EXTINF:-1, tvg-name="警匪悬疑" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",古装妖魔
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c58_fast_947_1080P_t10/c58_fast_947_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c58_fast_947_1080P_t10/c58_fast_947_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_947_1080P_t10/c58_fast_947_1080P_t10.m3u8?d
 #EXTINF:-1, tvg-name="泰语剧场" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",泰语剧场
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c58_fast_949_1080P_t10/c58_fast_949_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c58_fast_949_1080P_t10/c58_fast_949_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_949_1080P_t10/c58_fast_949_1080P_t10.m3u8?d
 #EXTINF:-1, tvg-name="搞笑剧场" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",搞笑剧场
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c58_fast_953_1080P_t10/c58_fast_953_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c58_fast_953_1080P_t10/c58_fast_953_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_953_1080P_t10/c58_fast_953_1080P_t10.m3u8?d
 #EXTINF:-1, tvg-name="乡村大剧" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",乡村大剧 
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c58_fast_958_1080P_t10/c58_fast_958_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c58_fast_958_1080P_t10/c58_fast_958_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_958_1080P_t10/c58_fast_958_1080P_t10.m3u8?d
 #EXTINF:-1, tvg-name="大家剧场" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",大家剧场
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c58_fast_975_1080P_t10/c58_fast_975_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c58_fast_975_1080P_t10/c58_fast_975_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_975_1080P_t10/c58_fast_975_1080P_t10.m3u8?d
-
 #EXTINF:-1, tvg-name="青春剧场" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",青春剧场
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c58_fast_986_1080P_t10/c58_fast_986_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c58_fast_986_1080P_t10/c58_fast_986_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_986_1080P_t10/c58_fast_986_1080P_t10.m3u8?d
-
 #EXTINF:-1, tvg-name="四大名著" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",【四大名著】
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1141_1080P_t10/c60_fast_1141_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1141_1080P_t10/c60_fast_1141_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1141_1080P_t10/c60_fast_1141_1080P_t10.m3u8?d
 #EXTINF:-1, tvg-name="四大名著" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",短剧精选
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c56_fast_1139_1080P_t10/c56_fast_1139_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c56_fast_1139_1080P_t10/c56_fast_1139_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c56_fast_1139_1080P_t10/c56_fast_1139_1080P_t10.m3u8?d
 #EXTINF:-1, tvg-name="足球世界" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",足球世界
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c55_fast_1061_1080P_t10/c55_fast_1061_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c55_fast_1061_1080P_t10/c55_fast_1061_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c55_fast_1061_1080P_t10/c55_fast_1061_1080P_t10.m3u8?d
 #EXTINF:-1, tvg-name="网坛精华" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",网坛精华
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c59_fast_1059_1080P_t10/c59_fast_1059_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c59_fast_1059_1080P_t10/c59_fast_1059_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_1059_1080P_t10/c59_fast_1059_1080P_t10.m3u8?d
 #EXTINF:-1, tvg-name="搏击格斗" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",搏击格斗
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c59_fast_1060_1080P_t10/c59_fast_1060_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c59_fast_1060_1080P_t10/c59_fast_1060_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_1060_1080P_t10/c59_fast_1060_1080P_t10.m3u8?d
 #EXTINF:-1, tvg-name="体育万花筒" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",体育万花筒
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c58_fast_1062_1080P_t10/c58_fast_1062_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c58_fast_1062_1080P_t10/c58_fast_1062_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_1062_1080P_t10/c58_fast_1062_1080P_t10.m3u8?d
 #EXTINF:-1, tvg-name="青春舞动" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",青春舞动
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c56_fast_971_1080P_t10/c56_fast_971_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c56_fast_971_1080P_t10/c56_fast_971_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c56_fast_971_1080P_t10/c56_fast_971_1080P_t10.m3u8?d
 #EXTINF:-1, tvg-name="王者荣耀" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",王者荣耀
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c59_fast_1047_1080P_t10/c59_fast_1047_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c59_fast_1047_1080P_t10/c59_fast_1047_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_1047_1080P_t10/c59_fast_1047_1080P_t10.m3u8?d
-
 #EXTINF:-1, tvg-name="智勇闯关" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",智勇闯关
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1027_1080P_t10/c60_fast_1027_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1027_1080P_t10/c60_fast_1027_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1027_1080P_t10/c60_fast_1027_1080P_t10.m3u8?d
 #EXTINF:-1, tvg-name="奇异综艺" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",奇异综艺
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c59_fast_1000_1080P_t10/c59_fast_1000_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c59_fast_1000_1080P_t10/c59_fast_1000_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_1000_1080P_t10/c59_fast_1000_1080P_t10.m3u8?d
 #EXTINF:-1, tvg-name="奇异综艺" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道", 浙江综艺
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c57_fast_954_1080P_t10/c57_fast_954_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c57_fast_954_1080P_t10/c57_fast_954_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c57_fast_954_1080P_t10/c57_fast_954_1080P_t10.m3u8?d
 #EXTINF:-1, tvg-name="奇异综艺" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",综艺1
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c58_fast_1008_1080P_t10/c58_fast_1008_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c58_fast_1008_1080P_t10/c58_fast_1008_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_1008_1080P_t10/c58_fast_1008_1080P_t10.m3u8?d
 #EXTINF:-1, tvg-name="奇异综艺" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",综艺2
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c57_fast_1001_1080P_t10/c57_fast_1001_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c57_fast_1001_1080P_t10/c57_fast_1001_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c57_fast_1001_1080P_t10/c57_fast_1001_1080P_t10.m3u8?d
 #EXTINF:-1, tvg-name="奇异综艺" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",综艺3
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c56_fast_1004_1080P_t10/c56_fast_1004_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c56_fast_1004_1080P_t10/c56_fast_1004_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c56_fast_1004_1080P_t10/c56_fast_1004_1080P_t10.m3u8?d
 #EXTINF:-1, tvg-name="央视春晚" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",央视春晚
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c54_fast_733_1080P_t10/c54_fast_733_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c54_fast_733_1080P_t10/c54_fast_733_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c54_fast_733_1080P_t10/c54_fast_733_1080P_t10.m3u8?d
 #EXTINF:-1, tvg-name="央视元宵" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",央视元宵
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c56_fast_731_1080P_t10/c56_fast_731_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c56_fast_731_1080P_t10/c56_fast_731_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c56_fast_731_1080P_t10/c56_fast_731_1080P_t10.m3u8?d
 #EXTINF:-1, tvg-name="相声小品" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",相声小品
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c59_fast_1044_1080P_t10/c59_fast_1044_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c59_fast_1044_1080P_t10/c59_fast_1044_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_1044_1080P_t10/c59_fast_1044_1080P_t10.m3u8?d
 #EXTINF:-1, tvg-name="世界历史" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",世界历史
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1026_1080P_t10/c60_fast_1026_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1026_1080P_t10/c60_fast_1026_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1026_1080P_t10/c60_fast_1026_1080P_t10.m3u8?d
 #EXTINF:-1, tvg-name="中国通史" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",中国通史
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1029_1080P_t10/c60_fast_1029_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1029_1080P_t10/c60_fast_1029_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1029_1080P_t10/c60_fast_1029_1080P_t10.m3u8?d
 #EXTINF:-1, tvg-name="纪实档案" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",纪实档案
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1034_1080P_t10/c60_fast_1034_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1034_1080P_t10/c60_fast_1034_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1034_1080P_t10/c60_fast_1034_1080P_t10.m3u8?d
 #EXTINF:-1, tvg-name="经典传奇" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",经典传奇
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1036_1080P_t10/c60_fast_1036_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1036_1080P_t10/c60_fast_1036_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1036_1080P_t10/c60_fast_1036_1080P_t10.m3u8?d
 #EXTINF:-1, tvg-name="传奇故事" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",传奇故事
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1037_1080P_t10/c60_fast_1037_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1037_1080P_t10/c60_fast_1037_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1037_1080P_t10/c60_fast_1037_1080P_t10.m3u8?d
-
 #EXTINF:-1, tvg-name="健康养生" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",健康养生
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c59_fast_1046_1080P_t10/c59_fast_1046_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c59_fast_1046_1080P_t10/c59_fast_1046_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_1046_1080P_t10/c59_fast_1046_1080P_t10.m3u8?d
 #EXTINF:-1, tvg-name="养生堂" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",养生堂
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1032_1080P_t10/c60_fast_1032_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1032_1080P_t10/c60_fast_1032_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1032_1080P_t10/c60_fast_1032_1080P_t10.m3u8?d
 #EXTINF:-1, tvg-name="健康大问诊" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",健康大问诊
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1035_1080P_t10/c60_fast_1035_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1035_1080P_t10/c60_fast_1035_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1035_1080P_t10/c60_fast_1035_1080P_t10.m3u8?d
 #EXTINF:-1, tvg-name="金牌调解" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",金牌调解
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c59_fast_1039_1080P_t10/c59_fast_1039_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c59_fast_1039_1080P_t10/c59_fast_1039_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_1039_1080P_t10/c59_fast_1039_1080P_t10.m3u8?d
 #EXTINF:-1, tvg-name="第三调节室" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",第三调节室
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1033_1080P_t10/c60_fast_1033_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1033_1080P_t10/c60_fast_1033_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1033_1080P_t10/c60_fast_1033_1080P_t10.m3u8?d
 #EXTINF:-1, tvg-name="国产动漫" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",国产动漫
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c55_fast_1006_1080P_t10/c55_fast_1006_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c55_fast_1006_1080P_t10/c55_fast_1006_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c55_fast_1006_1080P_t10/c55_fast_1006_1080P_t10.m3u8?d
 #EXTINF:-1, tvg-name="熊大熊二" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道", 熊大熊二
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c56_fast_729_1080P_t10/c56_fast_729_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c56_fast_729_1080P_t10/c56_fast_729_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c56_fast_729_1080P_t10/c56_fast_729_1080P_t10.m3u8?d
-http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c54_fast_994_1080P_t10/c54_fast_994_1080P_t10.m3u8?d
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c54_fast_994_1080P_t10/c54_fast_994_1080P_t10.m3u8?d
+
+
 #EXTINF:-1, tvg-name="蛋仔派对" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",蛋仔派对
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1048_1080P_t10/c60_fast_1048_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1048_1080P_t10/c60_fast_1048_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1048_1080P_t10/c60_fast_1048_1080P_t10.m3u8?d
 #EXTINF:-1, tvg-name="动漫剧场" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",动漫剧场1
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c57_fast_1002_1080P_t10/c57_fast_1002_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c57_fast_1002_1080P_t10/c57_fast_1002_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c57_fast_1002_1080P_t10/c57_fast_1002_1080P_t10.m3u8?d
 #EXTINF:-1, tvg-name="动漫剧场" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",动漫剧场2
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c59_fast_945_1080P_t10/c59_fast_945_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c59_fast_945_1080P_t10/c59_fast_945_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_945_1080P_t10/c59_fast_945_1080P_t10.m3u8?d
 #EXTINF:-1, tvg-name="动漫剧场" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",动漫剧场3
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c56_fast_1010_1080P_t10/c56_fast_1010_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c56_fast_1010_1080P_t10/c56_fast_1010_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c56_fast_1010_1080P_t10/c56_fast_1010_1080P_t10.m3u8?d
 #EXTINF:-1, tvg-name="少儿剧场" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",少儿剧场
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1073_1080P_t10/c60_fast_1073_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1073_1080P_t10/c60_fast_1073_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1073_1080P_t10/c60_fast_1073_1080P_t10.m3u8?d
 #EXTINF:-1, tvg-name="《猫和老鼠》" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",《猫和老鼠》
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c54_fast_1142_1080P_t10/c54_fast_1142_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c54_fast_1142_1080P_t10/c54_fast_1142_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c54_fast_1142_1080P_t10/c54_fast_1142_1080P_t10.m3u8?d
 #EXTINF:-1, tvg-name="《小猪佩奇》" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",《小猪佩奇》
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c55_fast_704_1080P_t10/c55_fast_704_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c55_fast_704_1080P_t10/c55_fast_704_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c55_fast_704_1080P_t10/c55_fast_704_1080P_t10.m3u8?d
 #EXTINF:-1, tvg-name="校园生活" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",汪汪队立大功
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c56_fast_1067_1080P_t10/c56_fast_1067_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c56_fast_1067_1080P_t10/c56_fast_1067_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c56_fast_1067_1080P_t10/c56_fast_1067_1080P_t10.m3u8?d
 #EXTINF:-1, tvg-name="影视金曲" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/iQiYi/IQIYI.png" group-title="🥝奇异果频道",影视金曲
+http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c57_fast_1066_1080P_t10/c57_fast_1066_1080P_t10.m3u8?d
+http://gdctyuncdnct.inter.ptqy.gitv.tv/tslive/c57_fast_1066_1080P_t10/c57_fast_1066_1080P_t10.m3u8?d
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c57_fast_1066_1080P_t10/c57_fast_1066_1080P_t10.m3u8?d
 
 //////////////////////////////////////////////////////////
