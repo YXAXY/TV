@@ -2187,18 +2187,9 @@
     ],
     "lives": [
 
-	    {
-             "name": "浙江移动IPV6",
-            "type": 0,
-            "boot": "true",
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/YXAXY/TV/refs/heads/main/ZJYD-IPV6.m3u",
-            "ua": "okhttp/3.15",
-             "playerType": 2,
-             "timeout": 20
-           
-		},
+	   
       {
-             "name": "GitHub测试",
+             "name": "浙江移动首选",
             "type": 0,
             "boot": "true",
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/YXAXY/TV/refs/heads/main/VIP.m3u",
@@ -2207,6 +2198,14 @@
              "timeout": 20
            
 		},
+	     {
+             "name": "电信首选",
+            "type": 0,
+            "boot": "true",
+             "url": "https://gitee.com/SOSTV/a1/raw/master/全网通测试.m3u",
+            "playerType": 2,
+            "timeout": 10
+		 },
               {
              "name": "黑龙江代理【全网】",
             "type": 0,
@@ -2220,6 +2219,16 @@
             "type": 0,
             "boot": "true",
             "url": "https://aktv.space/live.m3u",
+            "ua": "okhttp/3.15",
+             "playerType": 2,
+             "timeout": 20
+           
+		},
+	     {
+             "name": "浙江移动IPV6",
+            "type": 0,
+            "boot": "true",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/YXAXY/TV/refs/heads/main/ZJYD-IPV6.m3u",
             "ua": "okhttp/3.15",
              "playerType": 2,
              "timeout": 20
