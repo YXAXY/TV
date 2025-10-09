@@ -2198,11 +2198,12 @@
              "timeout": 20
            
 		},
-	     {
-             "name": "电信首选",
+	      {
+             "name": "电信、联通首选",
             "type": 0,
             "boot": "true",
-             "url": "https://gitee.com/SOSTV/a1/raw/master/全网通测试.m3u",
+             "url": "https://gitee.com/SOSTV/a1/raw/master/YD2DX.png",
+             "ua":"okhttp/3.15",
             "playerType": 2,
             "timeout": 10
 		 },
@@ -2546,4 +2547,5 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
