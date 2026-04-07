@@ -10,12 +10,11 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236687/1/index.m3u8
 绍兴文化影视  8M
 #EXTINF:-1 tvg-name="绍兴文化影视" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/浙江/绍兴文化影视.png" group-title="☘️浙江频道",绍兴文化影视 
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236760/1/index.m3u8$『移动•8M』
-
-
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/CCTV/CCTV1.png" group-title="🇨🇳央视频道",CCTV-1
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236222/index.m3u8$浙江移动•IPV4『线路1』
 https://pull-f3.douyincdn.com/media/stream-695463869641654956.m3u8
-
+https://[2409:8a28:5e30:7300:45:9d37:19c9:b10b]:8888/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236222/index.m3u8$•IPV6『测试1』
+https://[2409:8a28:5e30:7300:45:9d37:19c9:b10b]:8888/http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236222/index.m3u8$•IPV6『测试2』
 http://sn.1580518.xyz:5678/php-m3u/抖音.php?id=456815963645$『抖音•』『PHP•代理』
 http://sn.1580518.xyz:5678/php-m3u/央视新闻.php?id=cctv1&q=lg$『央视新闻•』『PHP•代理』
 http://sn.1580518.xyz:5678/php-m3u/天津大学图书馆.php?id=3$『天津大学图书馆•』『PHP•代理』
