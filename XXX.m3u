@@ -1,8 +1,6 @@
-﻿
+
 #EXTM3U x-tvg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}"
 
-
-//////////////////////////////////////////////////////////
 #EXTINF:-1 tvg-name="绍兴新闻综合" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/浙江/绍兴新闻综合.png" group-title="☘️浙江频道",绍兴新闻综合 
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236685/1/index.m3u8$『移动•8M』
 #EXTINF:-1 tvg-name="绍兴公共频道" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/浙江/绍兴公共频道.png" group-title="☘️浙江频道",绍兴公共频道 
@@ -10,11 +8,13 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236687/1/index.m3u8
 绍兴文化影视  8M
 #EXTINF:-1 tvg-name="绍兴文化影视" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/浙江/绍兴文化影视.png" group-title="☘️浙江频道",绍兴文化影视 
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236760/1/index.m3u8$『移动•8M』
+
+
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/CCTV/CCTV1.png" group-title="🇨🇳央视频道",CCTV-1
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236222/index.m3u8$浙江移动•IPV4『线路1』
 https://pull-f3.douyincdn.com/media/stream-695463869641654956.m3u8
-https://[2409:8a28:5e30:7300:45:9d37:19c9:b10b]:8888/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236222/index.m3u8$•IPV6『测试1』
-https://[2409:8a28:5e30:7300:45:9d37:19c9:b10b]:8888/http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236222/index.m3u8$•IPV6『测试2』
+video://https://tv.cctv.com/live/cctv5/
+http://sn.1580518.xyz:5678/php-m3u/CQYX-TS.php?i=cctv1HD&c=2&a=a48k&v=v4M$『重庆有线•代理』
 http://sn.1580518.xyz:5678/php-m3u/抖音.php?id=456815963645$『抖音•』『PHP•代理』
 http://sn.1580518.xyz:5678/php-m3u/央视新闻.php?id=cctv1&q=lg$『央视新闻•』『PHP•代理』
 http://sn.1580518.xyz:5678/php-m3u/天津大学图书馆.php?id=3$『天津大学图书馆•』『PHP•代理』
@@ -1045,26 +1045,37 @@ http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c57_fast_1066_1080P_t10/c57_fast_1
 ///////////////////////////////////////////////////////////
 #EXTINF:-1, tvg-name="TY24H轮播" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/天翼台标.png" group-title="⭕️天翼频道",TY24H轮播
 http://sn.1580518.xyz:5678/php-m3u/天翼V3.php?id=24hlb$『PHP•代理』
+http://192.168.2.212:5678/php-m3u/天翼V3.php?id=24hlb$『局域网•代理』
 #EXTINF:-1, tvg-name="TY传奇剧场" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/天翼台标.png" group-title="⭕️天翼频道",传奇剧场
 http://sn.1580518.xyz:5678/php-m3u/天翼V3.php?id=cqjc$『PHP•代理』
+http://192.168.2.212:5678/php-m3u/天翼V3.php?id=cqjc$『局域网•代理』
 #EXTINF:-1, tvg-name="TY热血剧场" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/天翼台标.png" group-title="⭕️天翼频道",TY热血剧场
 http://sn.1580518.xyz:5678/php-m3u/天翼V3.php?id=rxjc$『PHP•代理』
+http://192.168.2.212:5678/php-m3u/天翼V3.php?id=rxjc$『局域网•代理』
 #EXTINF:-1, tvg-name="TY往昔影院" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/天翼台标.png" group-title="⭕️天翼频道",TY往昔影院
 http://sn.1580518.xyz:5678/php-m3u/天翼V3.php?id=wxyy$『PHP•代理』
+http://192.168.2.212:5678/php-m3u/天翼V3.php?id=wxyy$『局域网•代理』
 #EXTINF:-1, tvg-name="TY生活剧场" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/天翼台标.png" group-title="⭕️天翼频道",TY生活剧场
 http://sn.1580518.xyz:5678/php-m3u/天翼V3.php?id=shjc$『PHP•代理』
+http://192.168.2.212:5678/php-m3u/天翼V3.php?id=shjc$『局域网•代理』
 #EXTINF:-1, tvg-name="TY国产佳作" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/天翼台标.png" group-title="⭕️天翼频道",TY国产佳作
 http://sn.1580518.xyz:5678/php-m3u/天翼V3.php?id=gcjz$『PHP•代理』
+http://192.168.2.212:5678/php-m3u/天翼V3.php?id=gcjz$『局域网•代理』
 #EXTINF:-1, tvg-name="TY岁月男神" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/天翼台标.png" group-title="⭕️天翼频道",TY岁月男神
 http://sn.1580518.xyz:5678/php-m3u/天翼V3.php?id=syns$『PHP•代理』
+http://192.168.2.212:5678/php-m3u/天翼V3.php?id=syns$『局域网•代理』
 #EXTINF:-1, tvg-name="TY心动投送" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/天翼台标.png" group-title="⭕️天翼频道",TY心动投送
 http://sn.1580518.xyz:5678/php-m3u/天翼V3.php?id=xdts$『PHP•代理』
+http://192.168.2.212:5678/php-m3u/天翼V3.php?id=xdts$『局域网•代理』
 #EXTINF:-1, tvg-name="TY宅家剧场" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/天翼台标.png" group-title="⭕️天翼频道",TY宅家剧场
 http://sn.1580518.xyz:5678/php-m3u/天翼V3.php?id=zjjc$『PHP•代理』
+http://192.168.2.212:5678/php-m3u/天翼V3.php?id=zjjc$『局域网•代理』
 #EXTINF:-1, tvg-name="TY怀旧经典" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/天翼台标.png" group-title="⭕️天翼频道",TY怀旧经典
 http://sn.1580518.xyz:5678/php-m3u/天翼V3.php?id=hjjd$『PHP•代理』
+http://192.168.2.212:5678/php-m3u/天翼V3.php?id=hjjd$『局域网•代理』
 #EXTINF:-1, tvg-name="TY红色经典" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/天翼台标.png" group-title="⭕️天翼频道",TY红色经典
 http://sn.1580518.xyz:5678/php-m3u/天翼V3.php?id=hsjd$『PHP•代理』
+http://192.168.2.212:5678/php-m3u/天翼V3.php?id=wxyy$『局域网•代理』
 #EXTINF:-1, tvg-name="TY放映厅" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/天翼台标.png" group-title="⭕️天翼频道",TY放映厅
 http://sn.1580518.xyz:5678/php-m3u/天翼V3.php?id=fyt$『PHP•代理』
 #EXTINF:-1, tvg-name="TY大咖面对面" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/天翼台标.png" group-title="⭕️天翼频道",TY大咖面对面
@@ -1592,6 +1603,7 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228564/4/index.m3u8
 #EXTINF:-1 tvg-name="中国天气" tvg-id="中国天气" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/中国天气.png" group-title="📺数字频道",中国天气
 http://39.134.184.82:6610/-/000000001001/2000000002000000057/1.m3u8?channel-id=bestzb&Contentid=2000000002000000057	&livemode=1&stbId=m&IASHttpSessionId=RR271196820251223050534942291&ispcode=2000074
 http://39.134.184.82:6610/-/000000001001/5000000005000031974/1.m3u8?channel-id=bestzb&Contentid=5000000005000031974	&livemode=1&stbId=m&IASHttpSessionId=RR271196820251223050534942291&ispcode=2000074
+http://47.100.29.86:28888/sxg/zgqx_4000/$『四川•移动』
 http://[2409:8087:5e08:25::4]:6610/000000001000/5000000005000031974/1.m3u8?IASHttpSessionId=OTT$海南•移动『易视腾』
 http://117.176.215.210:24088/rtp/239.10.0.177:5140
 http://www.dlonzyz.top:12345/itv/2000000002000000057.m3u8?cdn=hnbblive$上海•ITV『线路1』
@@ -2029,6 +2041,7 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236358/index.m3u8
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236362/index.m3u8
 
 #EXTINF:-1 tvg-name="天元围棋" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天元围棋.png" group-title="🏀体育频道",天元围棋
+http://47.100.29.86:28888/sxg/tywq_2000/
 http://n1.gzbody.com:85/rtp/239.253.43.98:5146
 ///////////////////////////////////////////////////////////////////////////////////////////////
 
@@ -2127,8 +2140,11 @@ video://https://www.huya.com/30080236
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
-                                                                                 游戏频道
-
+                                                        游戏频道
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/游戏风云.png" group-title="🎮游戏赛事",『B站 英雄联盟D』 赛事
+https://live.iill.top/bilibili/6
+video://https://live.bilibili.com/6
+video://https://live.bilibili.com/6?live_from=86001&spm_id_from=333.1387.0.0
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://live.fanmingming.cn/tv/游戏风云.png" group-title="🎮游戏赛事",游戏风云
 http://39.134.184.82:6610/-/000000001001/5000000011000031114/1.m3u8?channel-id=bestzb&Contentid=5000000011000031114	&livemode=1&stbId=m&IASHttpSessionId=RR271196820251223050534942291&ispcode=2000074$一『百事通•8M FHD』
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236353/index.m3u8
@@ -2276,26 +2292,25 @@ video://https://www.douyu.com/7722576
 video://https://www.douyu.com/6672862
 
 
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
-#EXTINF:-1 tvg-logo="https://vi2.6rooms.com/live/2025/03/24/20/1003v1742818275015457113.jpg"group-title="🎵【6️⃣房间】",【6️⃣房间】能歌善舞艺琪疯发(7188)
-video://https://v.6.cn/7188
-#EXTINF:-1 tvg-logo="https://vi3.6rooms.com/live/2026/02/02/05/1003v1769980645090865004.jpg"group-title="🎵【6️⃣房间】",【6️⃣房间】Only丶girls(8777)
-video://https://v.6.cn/8777
-#EXTINF:-1 tvg-logo="https://vi0.6rooms.com/live/2026/02/09/21/1003v1770643683156719277.jpg"group-title="🎵【6️⃣房间】",【6️⃣房间】萌新糯米团团(792632)
-video://https://v.6.cn/792632
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
 
-#EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/ae8687c968b205de3b2f6f991070bc8eb1549a16.jpg@96w_96h_1c_1s_!web-avatar.avif"group-title="🎵🅿️俄语MV",【芭蕾舞《胡桃夹子》】莫斯科大剧院 Elizaveta Kokoreva, Daniil Potavtsev 2026 客座巴什基尔芭蕾舞团
+#EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/68982d739fdcc529ed527bfbcdeaedcf6d516984.jpg@96w_96h_1c_1s_!web-avatar.avif"group-title="🎵🅿️俄语MV",【《我的小宝贝》Моя маленькая（前苏联）电影《长久的告别》插曲，这个人真的好看，声音也好听】Полина Агуреева波琳娜
+http://sn.1580518.xyz:5080/Bilivideo.php?id=BV1yE41137WM
+#EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/ae8687c968b205de3b2f6f991070bc8eb1549a16.jpg@96w_96h_1c_1s_!web-avatar.avif"group-title="🎵🅿️俄语MV",【芭蕾舞《胡桃夹子》】莫斯科大剧院 Elizaveta Kokoreva  Daniil Potavtsev 2026 客座巴什基尔芭蕾舞团
+http://sn.1580518.xyz:5080/Bilivideo.php?id=BV1xAwDz3EDX
 video://https://www.bilibili.com/video/BV1xAwDz3EDX/?vd_source=011bb2356ed62199aaec037eb12cfa26
 
 #EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/68982d739fdcc529ed527bfbcdeaedcf6d516984.jpg@96w_96h_1c_1s_!web-avatar.avif"group-title="🎵🅿️俄语MV",【False Alarm - The Weeknd】第一人称视觉
+http://sn.1580518.xyz:5080/Bilivideo.php?id=BV1Zh411A7VY
 video://https://www.bilibili.com/video/BV1Zh411A7VY?spm_id_from=333.788.videopod.sections&vd_source=011bb2356ed62199aaec037eb12cfa26$【4K 120FPS】
 video://https://www.bilibili.com/video/BV1Wi4y1o7ke/?spm_id_from=333.337.search-card.all.click&vd_source=011bb2356ed62199aaec037eb12cfa26$【中英字幕】
 #EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/68982d739fdcc529ed527bfbcdeaedcf6d516984.jpg@96w_96h_1c_1s_!web-avatar.avif"group-title="🎵🅿️俄语MV",一首会让你爱上俄语的MV - 你与众不同（重置版）
+http://sn.1580518.xyz:5080/Bilivideo.php?id=BV1Zh411A7VY
 video://https://www.bilibili.com/video/BV1Ks411W7Dt/?spm_id_from=333.337.search-card.all.click&vd_source=011bb2356ed62199aaec037eb12cfa26
 #EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/2242c8be61f9c1735e80f9f6b57b7d776d4d30d8.jpg@96w_96h_1c_1s_!web-avatar.avif"group-title="🎵🅿️俄语MV",【Зая】来自俄罗斯组合Бамбинтон热门单曲
+http://sn.1580518.xyz:5080/Bilivideo.php?id=BV1G4411W7nT
 video://https://www.bilibili.com/video/BV1G4411W7nT?spm_id_from=333.788.videopod.episodes&vd_source=011bb2356ed62199aaec037eb12cfa26&p=19
 video://https://www.bilibili.com/video/BV13W411h7jH/?spm_id_from=333.337.search-card.all.click&vd_source=011bb2356ed62199aaec037eb12cfa26
 video://https://www.bilibili.com/video/BV13W411h7jH/?spm_id_from=333.788.videopod.episodes&vd_source=011bb2356ed62199aaec037eb12cfa26
@@ -2305,14 +2320,21 @@ video://https://www.bilibili.com/video/BV1bUNEzcE61/?spm_id_from=333.337.search-
 
 webview://https://www.bilibili.com/video/BV1yW411i7T5/
 video://https://www.bilibili.com/video/BV1yW411i7T5/?spm_id_from=333.788.videopod.episodes&vd_source=011bb2356ed62199aaec037eb12cfa26vd_source=011bb2356ed62199aaec037eb12cfa26&spm_id_from=333.788.videopod.episodes
+#EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/8927756f5fedff574e9d50614716de466ccc8f2b.jpg@240w_240h_1c_1s_!web-avatar-nav.webp" group-title="🎵🅿️俄语MV",【Люся Чеботина - ЗА БЫВШЕГО柳夏*契伯季娜《对于前任》(2024首映式）】
+http://sn.1580518.xyz:5080/Bilivideo.php?id=BV1ansHeKE9o
+video://https://www.bilibili.com/video/BV1ansHeKE9o/?spm_id_from=333.1387.homepage.video_card.click&vd_source=011bb2356ed62199aaec037eb12cfa26
+video://https://www.bilibili.com/video/BV1ansHeKE9o/?spm_id_from=333.337.search-card.all.click&vd_source=011bb2356ed62199aaec037eb12cfa26
 #EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/2242c8be61f9c1735e80f9f6b57b7d776d4d30d8.jpg@96w_96h_1c_1s_!web-avatar.avif"group-title="🎵🅿️俄语MV",【Наверно потому что(或许这是因为爱)】洗脑俄语MV
+http://sn.1580518.xyz:5080/Bilivideo.php?id=BV1ansHeKE9o
+http://sn.1580518.xyz:5080/Bilivideo.php?id=BV1Wx411y7yM
 video://https://www.bilibili.com/video/BV1ws411t79Z/?spm_id_from=333.788.videopod.episodes&vd_source=011bb2356ed62199aaec037eb12cfa26
 #EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/2242c8be61f9c1735e80f9f6b57b7d776d4d30d8.jpg@96w_96h_1c_1s_!web-avatar.avif"group-title="🎵🅿️俄语MV",【马戏团的蝴蝶效应惨案)-反序】战斗民族脑洞炸裂的创意MV
+http://sn.1580518.xyz:5080/Bilivideo.php?id=BV1ws411t79Z
 http://127.0.0.1:9978/proxy?do=bili&aid=17090234&cid=27927914&qn=32&type=mpd
 video://https://www.bilibili.com/video/BV1Wx411y7yM/?spm_id_from=333.337.search-card.all.click&vd_source=011bb2356ed62199aaec037eb12cfa26
 video://https://www.bilibili.com/video/BV18x411B7KN?spm_id_from=333.788.videopod.episodes&vd_source=011bb2356ed62199aaec037eb12cfa26
 #EXTINF:-1 tvg-logo="https://gitee.com/SOSTV/logo/raw/master/GIF/%E5%BD%A9%E8%99%B9%E5%9C%88.gif"group-title="🎵🅿️俄语MV",【养蜂人】RASA - Пчеловод
-
+http://sn.1580518.xyz:5080/Bilivideo.php?id=BV1CJ411j7A1
 video://https://www.bilibili.com/video/BV1CJ411j7A1?vd_source=011bb2356ed62199aaec037eb12cfa26&spm_id_from=333.788.videopod.episodes
 #EXTINF:-1 tvg-logo="https://gitee.com/SOSTV/logo/raw/master/GIF/彩虹圈.gif"group-title="🎵🅿️俄语MV",【我不在乎】Клава Кока & MORGENSHTERN - Мне пох
 video://https://www.bilibili.com/video/BV1CJ411j7A1?vd_source=011bb2356ed62199aaec037eb12cfa26&spm_id_from=333.788.videopod.episodes&p=2
@@ -2374,7 +2396,7 @@ video://https://www.bilibili.com/video/BV1z4411p7cc?spm_id_from=333.788.videopod
 video://https://www.bilibili.com/video/BV1z4411p7cc?spm_id_from=333.788.videopod.episodes&vd_source=011bb2356ed62199aaec037eb12cfa26&p=5
 #EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/8927756f5fedff574e9d50614716de466ccc8f2b.jpg@240w_240h_1c_1s_!web-avatar-nav.webp"group-title="🎵🅿️俄语MV",【IOWA - Я заболела тобой. Премьера!】
 video://https://www.bilibili.com/video/BV1z4411p7cc?spm_id_from=333.788.videopod.episodes&vd_source=011bb2356ed62199aaec037eb12cfa26&p=6
-#EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/8927756f5fedff574e9d50614716de466ccc8f2b.jpg@240w_240h_1c_1s_!web-avatar-nav.webp"group-title="🎵🅿️俄语MV",【A-Dessa 'Женщина, я не танцую'】
+#EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/8927756f5fedff574e9d50614716de466ccc8f2b.jpg@240w_240h_1c_1s_!web-avatar-nav.webp"group-title="🎵🅿️俄语MV",【A-Dessa 'Женщина  я не танцую'】
 video://https://www.bilibili.com/video/BV1z4411p7cc?spm_id_from=333.788.videopod.episodes&vd_source=011bb2356ed62199aaec037eb12cfa26&p=7
 #EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/8927756f5fedff574e9d50614716de466ccc8f2b.jpg@240w_240h_1c_1s_!web-avatar-nav.webp"group-title="🎵🅿️俄语MV",【Alexander Rybak - 'Котик' 'Kotik'】
 video://https://www.bilibili.com/video/BV1z4411p7cc?spm_id_from=333.788.videopod.episodes&vd_source=011bb2356ed62199aaec037eb12cfa26&p=8
@@ -2422,7 +2444,7 @@ video://https://www.bilibili.com/video/BV1z4411p7cc?spm_id_from=333.788.videopod
 video://https://www.bilibili.com/video/BV1z4411p7cc?spm_id_from=333.788.videopod.episodes&vd_source=011bb2356ed62199aaec037eb12cfa26&p=29
 #EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/8927756f5fedff574e9d50614716de466ccc8f2b.jpg@240w_240h_1c_1s_!web-avatar-nav.webp"group-title="🎵🅿️俄语MV",【女超人的日常Ханна ft. Егор Крид - Скромным Быть Не В Моде (2014)】
 video://https://www.bilibili.com/video/BV1z4411p7cc?spm_id_from=333.788.videopod.episodes&vd_source=011bb2356ed62199aaec037eb12cfa26&p=30
-#EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/8927756f5fedff574e9d50614716de466ccc8f2b.jpg@240w_240h_1c_1s_!web-avatar-nav.webp"group-title="🎵🅿️俄语MV",【妈妈，我爱上了Ханна - Мама, я влюбилась ( 2015)】
+#EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/8927756f5fedff574e9d50614716de466ccc8f2b.jpg@240w_240h_1c_1s_!web-avatar-nav.webp"group-title="🎵🅿️俄语MV",【妈妈 我爱上了Ханна - Мама  я влюбилась ( 2015)】
 video://https://www.bilibili.com/video/BV1z4411p7cc?spm_id_from=333.788.videopod.episodes&vd_source=011bb2356ed62199aaec037eb12cfa26&p=31
 #EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/8927756f5fedff574e9d50614716de466ccc8f2b.jpg@240w_240h_1c_1s_!web-avatar-nav.webp"group-title="🎵🅿️俄语MV",【Потап и Настя - Мы отменяем К.С.】
 video://https://www.bilibili.com/video/BV1z4411p7cc?spm_id_from=333.788.videopod.episodes&vd_source=011bb2356ed62199aaec037eb12cfa26&p=32
@@ -2439,7 +2461,7 @@ video://https://www.bilibili.com/video/BV1z4411p7cc?spm_id_from=333.788.videopod
 #EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/8927756f5fedff574e9d50614716de466ccc8f2b.jpg@240w_240h_1c_1s_!web-avatar-nav.webp"group-title="🎵🅿️俄语MV",【Ленинград — Не Париж】
 video://https://www.bilibili.com/video/BV1z4411p7cc?spm_id_from=333.788.videopod.episodes&vd_source=011bb2356ed62199aaec037eb12cfa26&p=37
 
-#EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/8927756f5fedff574e9d50614716de466ccc8f2b.jpg@240w_240h_1c_1s_!web-avatar-nav.webp"group-title="🎵🅿️俄语MV",【#2Маши-- 'МАМА, Я ТАНЦУЮ '】
+#EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/8927756f5fedff574e9d50614716de466ccc8f2b.jpg@240w_240h_1c_1s_!web-avatar-nav.webp"group-title="🎵🅿️俄语MV",【#2Маши-- 'МАМА  Я ТАНЦУЮ '】
 video://https://www.bilibili.com/video/BV1z4411p7cc?spm_id_from=333.788.videopod.episodes&vd_source=011bb2356ed62199aaec037eb12cfa26&p=38
 
 #EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/8927756f5fedff574e9d50614716de466ccc8f2b.jpg@240w_240h_1c_1s_!web-avatar-nav.webp"group-title="🎵🅿️俄语MV",【ЛАЙК.А LIKE.A - Адреналином】
@@ -2447,20 +2469,23 @@ video://https://www.bilibili.com/video/BV1z4411p7cc?spm_id_from=333.788.videopod
 
 #EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/8927756f5fedff574e9d50614716de466ccc8f2b.jpg@240w_240h_1c_1s_!web-avatar-nav.webp"group-title="🎵🅿️俄语MV",【灰姑娘-水晶鞋Артур Пирожков - Зацепила (Премьера клипа 2019)】
 video://https://www.bilibili.com/video/BV1G4411W7nT?spm_id_from=333.788.videopod.episodes&vd_source=011bb2356ed62199aaec037eb12cfa26&p=29
-#EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/8927756f5fedff574e9d50614716de466ccc8f2b.jpg@240w_240h_1c_1s_!web-avatar-nav.webp"group-title="🎵🅿️俄语MV",【Люся Чеботина - ЗА БЫВШЕГО (Премьера Клипа 2024) 柳夏*契伯季娜《对于前任》(2024首映式）】
-video://https://www.bilibili.com/video/BV1ansHeKE9o/?spm_id_from=333.1387.homepage.video_card.click&vd_source=011bb2356ed62199aaec037eb12cfa26
-video://https://www.bilibili.com/video/BV1ansHeKE9o/?spm_id_from=333.337.search-card.all.click&vd_source=011bb2356ed62199aaec037eb12cfa26
+
 #EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/8927756f5fedff574e9d50614716de466ccc8f2b.jpg@240w_240h_1c_1s_!web-avatar-nav.webp"group-title="🎵🅿️俄语MV",【Little Big《Hypnodancer》官方MV|洗脑神曲】
 video://https://www.bilibili.com/video/BV1VP411R7is/?spm_id_from=333.337.search-card.all.click&vd_source=011bb2356ed62199aaec037eb12cfa26
 #EXTINF:-1 tvg-logo="https://gitee.com/SOSTV/logo/raw/master/MV/%E8%A1%80%E8%89%B2%E9%BB%84%E9%87%91.png"group-title="🎵🅿️俄语MV",【血色黄金】Кровавое золото
+http://sn.1580518.xyz:5080/Bilivideo.php?id=BV1tt411E7Vr
 video://https://www.bilibili.com/video/BV1tt411E7Vr
 #EXTINF:-1 tvg-logo="https://gitee.com/SOSTV/logo/raw/master/MV/%E8%A1%80%E8%89%B2%E9%BB%84%E9%87%91.png"group-title="🎵🅿️俄语MV",【Стоп!Стоп!Стоп!俄语版》】圣女天团 ВИА Гра
+http://sn.1580518.xyz:5080/Bilivideo.php?id=BV1g2HWzREWu
 video://https://www.bilibili.com/video/BV1g2HWzREWu?spm_id_from=333.788.videopod.sections&vd_source=011bb2356ed62199aaec037eb12cfa26
 #EXTINF:-1 tvg-logo="https://gitee.com/SOSTV/logo/raw/master/MV/%E8%A1%80%E8%89%B2%E9%BB%84%E9%87%91.png"group-title="🎵🅿️俄语MV",【Stop!Stop!Stop!英语版】圣女天团 ВИА Гра
+http://sn.1580518.xyz:5080/Bilivideo.php?id=BV1g2HWzREWu
 video://https://www.bilibili.com/video/BV1g2HWzREWu?spm_id_from=333.788.videopod.sections&vd_source=011bb2356ed62199aaec037eb12cfa26&p=2
 #EXTINF:-1 tvg-logo="https://gitee.com/SOSTV/logo/raw/master/MV/%E8%A1%80%E8%89%B2%E9%BB%84%E9%87%91.png"group-title="🎵🅿️俄语MV",【就是这样的】圣女天团 ВИА Гра
+http://sn.1580518.xyz:5080/Bilivideo.php?id=BV1TBxMzSEMA
 video://https://www.bilibili.com/video/BV1TBxMzSEMA?spm_id_from=333.788.videopod.sections&vd_source=011bb2356ed62199aaec037eb12cfa26&p=2
 #EXTINF:-1 tvg-logo="https://gitee.com/SOSTV/logo/raw/master/MV/%E8%A1%80%E8%89%B2%E9%BB%84%E9%87%91.png"group-title="🎵🅿️俄语MV",【Моё сердце занято】圣女天团 
+http://sn.1580518.xyz:5080/Bilivideo.php?id=BV1WS3kzuED1
 video://https://www.bilibili.com/video/BV1WS3kzuED1?spm_id_from=333.788.videopod.sections&vd_source=011bb2356ed62199aaec037eb12cfa26
 
 //////////////////////////////////////////////////////////////////////////////////
@@ -3334,8 +3359,8 @@ video://https://www.douyu.com/9220456
 
 #EXTINF:-1 tvg-logo="https://m.iill.top/i/13303478&huya&logo" group-title="🆎影视解说",🐯虎牙┃阿斗归来了
 video://https://www.huya.com/13303478
-////////////////////////http://fy27.zbds.top:55655/huya/13303478
-////////////////////////video://https://www.huya.com/13303478
+//http://fy27.zbds.top:55655/huya/13303478
+///video://https://www.huya.com/13303478
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="🆎影视解说",🐯虎牙┃扁豆看电影
 video://https://www.huya.com/16028551
 video://https://www.huya.com/16028551
@@ -4882,11 +4907,12 @@ http://42.231.45.196:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 http://sn.1580518.xyz:5678/php-m3u/河南大象新闻.php?id=hnxc$『PHP•代理』
 #EXTINF:-1 tvg-name="河南国际" tvg-logo="https://live.fanmingming.cn/tv/河南国际.png" group-title="☘️河南频道",河南国际
 http://sn.1580518.xyz:5678/php-m3u/河南大象新闻.php?id=hngj$『PHP•代理』
-#EXTINF:-1 tvg-name="河南梨园" tvg-logo="https://live.fanmingming.cn/tv/河南梨园.png" group-title="☘️河南频道",河南梨园
+#EXTINF:-1 tvg-name="河南梨园" tvg-logo="https://live.fanmingming.cn/tv/河南梨园.png" group-title="☘️河南频道",河南梨园http://47.100.29.86:28888/sxg/ly_4000/
 http://sn.1580518.xyz:5678/php-m3u/河南大象新闻.php?id=hnly$『PHP•代理』
 #EXTINF:-1 tvg-name="文物宝库" tvg-logo="https://live.fanmingming.cn/tv/文物宝库.png" group-title="☘️河南频道",文物宝库
 http://sn.1580518.xyz:5678/php-m3u/河南大象新闻.php?id=wwbk$『PHP•代理』
 #EXTINF:-1 tvg-name="武术世界" tvg-logo="https://live.fanmingming.cn/tv/武术世界.png" group-title="☘️河南频道",武术世界
+http://47.100.29.86:28888/sxg/wssj_4000/
 http://sn.1580518.xyz:5678/php-m3u/河南大象新闻.php?id=wspd$『PHP•代理』
 #EXTINF:-1 tvg-name="睛彩中原" tvg-logo="https://live.fanmingming.cn/tv/睛彩中原.png" group-title="☘️河南频道",睛彩中原
 http://sn.1580518.xyz:5678/php-m3u/河南大象新闻.php?id=jczy$『PHP•代理』
@@ -10169,11 +10195,9 @@ http://sn.1580518.xyz:5678/php-m3u/合并代理A.php?id=jyzh
 #EXTINF:-1 tvg-name="曲靖师宗" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/曲靖师宗.png" group-title="☘️四川频道",曲靖师宗
 http://sn.1580518.xyz:5678/php-m3u/合并代理A.php?id=sztv
 
-//////////////////////////////////////////
 #EXTINF:-1 tvg-name="BesTV导视" tvg-logo="https://gitee.com/SOSTV/logo/raw/master/CN/BesTV导视.png" group-title="☘️BesTV百视通",BesTV导视
 http://58.32.34.99:4022/rtp/233.18.204.178:5140$『上海电信•组播 3.29』
 
-//////////////////////////////////////////
    【新视线俄语A1】
 #EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/a48b99530ba8a2a72b3fc59d2fdbd499d4843fdd.jpg@96w_96h_1c_1s_!web-avatar.avif"group-title="🅿️俄语学习",【新视线俄语A1】第一单元1
 video://https://www.bilibili.com/video/BV1iG4y177rK?spm_id_from=333.788.videopod.episodes&vd_source=011bb2356ed62199aaec037eb12cfa26
@@ -10271,8 +10295,6 @@ video://https://www.bilibili.com/video/BV1iG4y177rK?spm_id_from=333.788.videopod
 video://https://www.bilibili.com/video/BV1iG4y177rK?spm_id_from=333.788.videopod.episodes&vd_source=011bb2356ed62199aaec037eb12cfa26&p=51
 
 
-
-//////////////////////////////////////////
     【新视线俄语A2】
 #EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/a48b99530ba8a2a72b3fc59d2fdbd499d4843fdd.jpg@96w_96h_1c_1s_!web-avatar.avif"group-title="🅿️俄语学习",【新视线俄语A2】第一单元1
 video://https://www.bilibili.com/video/BV1g8411n7QX/?spm_id_from=333.999.0.0&vd_source=011bb2356ed62199aaec037eb12cfa26
@@ -10378,12 +10400,3 @@ video://https://www.bilibili.com/video/BV1g8411n7QX/?spm_id_from=333.788.videopo
 #EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/a48b99530ba8a2a72b3fc59d2fdbd499d4843fdd.jpg@96w_96h_1c_1s_!web-avatar.avif"group-title="🅿️俄语学习",【新视线俄语A2】A2总复习-2
 video://https://www.bilibili.com/video/BV1g8411n7QX/?spm_id_from=333.788.videopod.episodes&vd_source=011bb2356ed62199aaec037eb12cfa26&p=51
 
-
-#EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/a48b99530ba8a2a72b3fc59d2fdbd499d4843fdd.jpg@96w_96h_1c_1s_!web-avatar.avif"group-title="抖音CBA",【抖音】CBA直播
-video://https://live.douyin.com/983488708402
-#EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/a48b99530ba8a2a72b3fc59d2fdbd499d4843fdd.jpg@96w_96h_1c_1s_!web-avatar.avif"group-title="抖音CBA",【抖音】CCTV-13 
-video://https://live.douyin.com/547977714661
-#EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/a48b99530ba8a2a72b3fc59d2fdbd499d4843fdd.jpg@96w_96h_1c_1s_!web-avatar.avif"group-title="抖音CBA",【抖音 肥羊代理】CCTV-13
-https://live.iill.top/douyin/547977714661
-#EXTINF:-1 tvg-id="浙江交通之声" tvg-name="浙江交通之声" tvg-logo="https://imagev2.xmcdn.com/group74/M05/9D/8B/wKgO0l6C9J2DHT7YAAA_ILmGB6o755.png" group-title="•📻【收音机】2",「浙江」交通之声
-video://https://m.qtfm.cn/channels/4522/
